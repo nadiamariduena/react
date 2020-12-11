@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "<br> <br>",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "killnode": "lsof -ti :8000 | xargs kill"
+  },
+  "keywords": [
+    "training",
+    "personal",
+    "react"
+  ],
+  "author": "nadia",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "node-sass": "^4.14.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1"
+  },
+  "devDependencies": {}
+}
