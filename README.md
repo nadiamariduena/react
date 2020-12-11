@@ -52,8 +52,10 @@
 
 <br>
 
+_(private)_
 [React Router1 ](https://github.com/https://github.com/nadiamariduena/react-router-introduction)
 
+_(private)_
 [React Router2 + Fetch ](https://github.com/https://github.com/https://github.com/nadiamariduena/react-router2-fetch)
 
 [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
@@ -65,10 +67,13 @@
 
 ##### Websites projects
 
+_(private)_
 [personal website MM ](https://github.com/nadiamariduena/final-project)
 
+_(private)_
 [personal website NM ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
 
+_(private)_
 [Set up React App with Webpack ](https://github.com/nadiamariduena/create-react-app)
 
 [ANIMATED Menu by Wrong Akram ](https://github.com/nadiamariduena/-anim-menu-react1)
