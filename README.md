@@ -40,24 +40,6 @@
 
 <br>
 
-#### Animations
-
-[smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
-
-[3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
-
-[image reveal](https://github.com/nadiamariduena/react-imgreveal-mini-portfolio1)
-
-[image reveal gsap](https://github.com/nadiamariduena/react-img-reveal1-gsap)
-
-[animated-portfolio-with-intersection-observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
-
-[animated-portfolio-with-aos](https://github.com/nadiamariduena/animated-portfolio-with-aos)
-
-[animation-effects-onpage-scroll AOS](https://github.com/nadiamariduena/animation-effects-onpage-scroll)
-
-[Navigation-hide-show-onscroll](https://github.com/nadiamariduena/react-hide-show-onscroll)
-
 <br>
 <br>
 <hr>
@@ -65,6 +47,7 @@
 <br>
 
 ## REACT (YouTube tutorials)
+
 #### React Router
 
 <br>
@@ -72,7 +55,6 @@
 [React Router1 ](https://github.com/https://github.com/nadiamariduena/react-router-introduction)
 
 [React Router2 + Fetch ](https://github.com/https://github.com/https://github.com/nadiamariduena/react-router2-fetch)
-
 
 [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
 
@@ -96,6 +78,25 @@
 [React & Redux Shopping Cart ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
 <br>
+
+##### Animations
+
+[smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
+
+[3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
+
+[image reveal](https://github.com/nadiamariduena/react-imgreveal-mini-portfolio1)
+
+[image reveal gsap](https://github.com/nadiamariduena/react-img-reveal1-gsap)
+
+[animated-portfolio-with-intersection-observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
+
+[animated-portfolio-with-aos](https://github.com/nadiamariduena/animated-portfolio-with-aos)
+
+[animation-effects-onpage-scroll AOS](https://github.com/nadiamariduena/animation-effects-onpage-scroll)
+
+[Navigation-hide-show-onscroll](https://github.com/nadiamariduena/react-hide-show-onscroll)
+
 <br>
 <hr>
 <br>
