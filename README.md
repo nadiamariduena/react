@@ -1,45 +1,7 @@
 # ALL REACT RELATED
 
-<br>
-<br>
+- Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT
 
-## REACT (learning with tutorials)
-#### React Router
-
-<br>
-
-[React Router1 ](https://github.com/https://github.com/nadiamariduena/react-router-introduction)
-
-[React Router2 + Fetch ](https://github.com/https://github.com/https://github.com/nadiamariduena/react-router2-fetch)
-
-<br>
-<br>
-
-[componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
-
-[react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
-
-<br>
-<br>
-
-##### Websites projects
-
-[personal website MM ](https://nadiamariduena.github.io/final-project/)
-
-[personal website NM ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
-
-[Set up React App with Webpack ](https://github.com/nadiamariduena/create-react-app)
-
-[ANIMATED Menu by Wrong Akram ](https://github.com/nadiamariduena/-anim-menu-react1)
-
-[Firegram by Ninja ](https://github.com/nadiamariduena/Firegram)
-
-[React & Redux Shopping Cart ](https://github.com/nadiamariduena/first-redux-shopping-cart)
-
-<br>
-<br>
-<hr>
-<br>
 <br>
 
 ## REACT (Digital Career Institute)
@@ -95,6 +57,43 @@
 [animation-effects-onpage-scroll AOS](https://github.com/nadiamariduena/animation-effects-onpage-scroll)
 
 [Navigation-hide-show-onscroll](https://github.com/nadiamariduena/react-hide-show-onscroll)
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+## REACT (YouTube tutorials)
+#### React Router
+
+<br>
+
+[React Router1 ](https://github.com/https://github.com/nadiamariduena/react-router-introduction)
+
+[React Router2 + Fetch ](https://github.com/https://github.com/https://github.com/nadiamariduena/react-router2-fetch)
+
+
+[componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
+
+[react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
+
+<br>
+<br>
+
+##### Websites projects
+
+[personal website MM ](https://nadiamariduena.github.io/final-project/)
+
+[personal website NM ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+
+[Set up React App with Webpack ](https://github.com/nadiamariduena/create-react-app)
+
+[ANIMATED Menu by Wrong Akram ](https://github.com/nadiamariduena/-anim-menu-react1)
+
+[Firegram by Ninja ](https://github.com/nadiamariduena/Firegram)
+
+[React & Redux Shopping Cart ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
 <br>
 <br>
