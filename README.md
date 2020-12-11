@@ -65,7 +65,7 @@
 
 ##### Websites projects
 
-[personal website MM ](https://nadiamariduena.github.io/final-project/)
+[personal website MM ](https://github.com/nadiamariduena/final-project)
 
 [personal website NM ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
 
