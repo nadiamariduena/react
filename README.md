@@ -60,6 +60,8 @@ _(private)_
 
 [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
 
+[All about HOOKS](https://github.com/nadiamariduena/react-hooks-recap)
+
 [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
 
 <br>
