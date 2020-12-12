@@ -53,10 +53,10 @@
 <br>
 
 _(private)_
-[React Router1 ](https://github.com/https://github.com/nadiamariduena/react-router-introduction)
+[React Router1 ](https://github.com/nadiamariduena/react-router-introduction)
 
 _(private)_
-[React Router2 + Fetch ](https://github.com/https://github.com/https://github.com/nadiamariduena/react-router2-fetch)
+[React Router2 + Fetch ](https://github.com/nadiamariduena/react-router2-fetch)
 
 [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
 
