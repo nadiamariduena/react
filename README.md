@@ -20,15 +20,6 @@
 
 [API News](https://github.com/nadiamariduena/react-news-api)
 
-<br>
-
-#### React Projects with "react create app" and WEBPACK
-
-_(private)_
-[nm portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
-
-_(private)_
-[nm portfolio](https://github.com/nadiamariduena/create-react-app)
 
 <br>
 
@@ -75,6 +66,17 @@ _(private)_
 [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
 
 <br>
+<br>
+
+
+#### React Projects with "react create app" and WEBPACK
+
+_(private)_
+[nm portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
+
+_(private)_
+[nm portfolio](https://github.com/nadiamariduena/create-react-app)
+
 <br>
 
 ##### Websites projects
