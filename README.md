@@ -69,7 +69,6 @@ _(private)_
 
 #### React Projects with "react create app" and WEBPACK
 
-_(private)_
 [nm portfolio ak menu gsap test | {history} use](https://github.com/nadiamariduena/nm-port-menu-ak-test)
 
 _(private)_
