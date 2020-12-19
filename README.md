@@ -70,7 +70,7 @@ _(private)_
 #### React Projects with "react create app" and WEBPACK
 
 _(private)_
-[nm portfolio ak menu and snippets](https://github.com/nadiamariduena/nm-port-menu-ak-test)
+[nm portfolio ak menu gsap test | {history} use](https://github.com/nadiamariduena/nm-port-menu-ak-test)
 
 _(private)_
 [nm portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
@@ -166,6 +166,115 @@ npm uninstall node-sass
 // 2
 npm install node-sass@4.14.1
 //  https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0
+```
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+## Simple React Snippets 🌵
+
+```javascript
+
+imr	Import React
+imrc	Import React / Component
+imrs	Import React / useState
+imrse	Import React / useState useEffect
+impt	Import PropTypes
+impc	Import React / PureComponent
+//
+cc	Class Component
+ccc	Class Component With Constructor
+cpc	Class Pure Component
+//
+sfc	Stateless Function Component
+//
+cdm	componentDidMount
+uef	useEffect Hook
+cwm	componentWillMount
+cwrp	componentWillReceiveProps
+gds	getDerivedStateFromProps
+scu	shouldComponentUpdate
+cwu	componentWillUpdate
+cdu	componentDidUpdate
+cwu	componentWillUpdate
+cdc	componentDidCatch
+gsbu	getSnapshotBeforeUpdate
+ss	setState
+ssf	Functional setState
+usf	Declare a new state variable using State Hook
+ren	render
+rprop	Render Prop
+hoc	Higher Order Component
+//
+//
+// https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+```
+
+<br>
+
+#### EXAMPLE
+
+```javascript
+rfc;
+// example
+
+import React from "react";
+
+export default function Shop() {
+  return (
+    <div>
+      <h1>rfc HELLO shopppp</h1>
+    </div>
+  );
+}
+```
+
+#### ANOTHER ONE
+
+```javascript
+rcc→	class component skeleton
+rrc→	class component skeleton with react-redux connect
+rrdc→	class component skeleton with react-redux connect and dispatch
+rccp→	class component skeleton with prop types after the class
+rcjc→	class component skeleton without import and default export lines
+rcfc→	class component skeleton that contains all the lifecycle methods
+rwwd→	class component without import statements
+rpc→	class pure component skeleton with prop types after the class
+rsc→	stateless component skeleton
+rscp→	stateless component with prop types skeleton
+rscm→	memoize stateless component skeleton
+rscpm→	memoize stateless component with prop types skeleton
+rsf→	stateless named function skeleton
+rsfp→	stateless named function with prop types skeleton
+rsi→	stateless component with prop types and implicit return
+fcc→	class component with flow types skeleton
+fsf→	stateless named function skeleton with flow types skeleton
+fsc→	stateless component with flow types skeleton
+rpt→	empty propTypes declaration
+rdp→	empty defaultProps declaration
+con→	class default constructor with props
+conc→	class default constructor with props and context
+est→	empty state object
+cwm→	componentWillMount method
+cdm→	componentDidMount method
+cwr→	componentWillReceiveProps method
+scu→	shouldComponentUpdate method
+cwup→	componentWillUpdate method
+cdup→	componentDidUpdate method
+cwun→	componentWillUnmount method
+gsbu→	getSnapshotBeforeUpdate method
+gdsfp→	static getDerivedStateFromProps method
+cdc→	componentDidCatch method
+ren→	render method
+sst→	this.setState with object as parameter
+ssf→	this.setState with function as parameter
+props→	this.props
+state→	this.state
+bnd→	binds the this of method inside the constructor
+disp→	MapDispatchToProps redux function
 ```
 
 <br>
