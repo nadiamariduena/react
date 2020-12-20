@@ -67,37 +67,35 @@ _(private)_
 <br>
 <br>
 
-#### React Projects with "react create app" and WEBPACK
+##### React Final project for Digital Career Institute (DCI)
+
+- All the apps related to the final project
+  <br>
 
 _(private)_
-[testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
+[Testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
 
-[portfolio ak menu gsap test | {history} use](https://github.com/nadiamariduena/nm-port-menu-ak-test)
-
-_(private)_
-[nm portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
+[portfolio ak menu gsap test | {history} use (Menu only)](https://github.com/nadiamariduena/nm-port-menu-ak-test)
 
 _(private)_
-[testing with create react app](https://github.com/nadiamariduena/create-react-app)
+[NM portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
 
+_(private)_
+[GSAP / three.js animations for nm portfolio ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+
+_(private)_
+[Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
+
+<br>
 <br>
 
 ##### Websites projects
 
-_(private)_
-[personal website MM ](https://github.com/nadiamariduena/final-project)
+[ANIMATED Menu by Wrong Akram "exercise" ](https://github.com/nadiamariduena/-anim-menu-react1)
 
-_(private)_
-[personal website NM ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+[Firegram by Ninja "exercise"](https://github.com/nadiamariduena/Firegram)
 
-_(private)_
-[Set up React App with Webpack ](https://github.com/nadiamariduena/create-react-app)
-
-[ANIMATED Menu by Wrong Akram ](https://github.com/nadiamariduena/-anim-menu-react1)
-
-[Firegram by Ninja ](https://github.com/nadiamariduena/Firegram)
-
-[React & Redux Shopping Cart ](https://github.com/nadiamariduena/first-redux-shopping-cart)
+[React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
 <br>
 
@@ -118,6 +116,16 @@ _(private)_
 [animation-effects-onpage-scroll AOS](https://github.com/nadiamariduena/animation-effects-onpage-scroll)
 
 [Navigation-hide-show-onscroll](https://github.com/nadiamariduena/react-hide-show-onscroll)
+
+<br>
+<br>
+
+#### React Projects "WEBPACK"
+
+_(private)_
+[testing with create react app](https://github.com/nadiamariduena/create-react-app)
+
+<br>
 
 <br>
 <hr>
