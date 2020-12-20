@@ -14,6 +14,9 @@
 > All the apps related to the final project
 > <br>
 
+_(private)_
+[nadia mariduena FINAL](https://github.com/nadiamariduena/nm-final)
+
 [Testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
 
 [portfolio ak menu gsap test | {history} use (Menu only)](https://github.com/nadiamariduena/nm-port-menu-ak-test)
