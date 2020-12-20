@@ -3,12 +3,15 @@
 - Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT
 
 <br>
+<br>
+<br>
+<br>
 
-## REACT (Digital Career Institute)
+## REACT (Digital Career Institute) 🌵
 
 #### React Final project for Digital Career Institute (DCI)
 
-- All the apps related to the final project
+> All the apps related to the final project
   <br>
 
 _(private)_
@@ -25,9 +28,8 @@ _(private)_
 _(private)_
 [Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
 
-
-
 <br>
+<hr>
 <br>
 
 #### React DCI lessons
@@ -68,7 +70,7 @@ _(private)_
 <br>
 <br>
 
-## REACT (YouTube tutorials)
+## REACT (YouTube tutorials) 🌵
 
 #### React Router
 
@@ -119,7 +121,7 @@ _(private)_
 <br>
 <br>
 
-#### React Projects "WEBPACK"
+#### React Projects "WEBPACK" 🌵
 
 _(private)_
 [testing with create react app](https://github.com/nadiamariduena/create-react-app)
