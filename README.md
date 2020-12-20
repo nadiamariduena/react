@@ -6,6 +6,30 @@
 
 ## REACT (Digital Career Institute)
 
+#### React Final project for Digital Career Institute (DCI)
+
+- All the apps related to the final project
+  <br>
+
+_(private)_
+[Testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
+
+[portfolio ak menu gsap test | {history} use (Menu only)](https://github.com/nadiamariduena/nm-port-menu-ak-test)
+
+_(private)_
+[NM portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
+
+_(private)_
+[GSAP / three.js animations for nm portfolio ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+
+_(private)_
+[Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
+
+
+
+<br>
+<br>
+
 #### React DCI lessons
 
 [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
@@ -39,8 +63,6 @@
 [simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
 
 <br>
-
-<br>
 <br>
 <hr>
 <br>
@@ -65,31 +87,8 @@ _(private)_
 [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
 
 <br>
-<br>
 
-##### React Final project for Digital Career Institute (DCI)
-
-- All the apps related to the final project
-  <br>
-
-_(private)_
-[Testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
-
-[portfolio ak menu gsap test | {history} use (Menu only)](https://github.com/nadiamariduena/nm-port-menu-ak-test)
-
-_(private)_
-[NM portfolio](https://github.com/nadiamariduena/nadiamariduena-portfolio-with-react-createapp)
-
-_(private)_
-[GSAP / three.js animations for nm portfolio ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
-
-_(private)_
-[Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
-
-<br>
-<br>
-
-##### Websites projects
+#### Websites projects
 
 [ANIMATED Menu by Wrong Akram "exercise" ](https://github.com/nadiamariduena/-anim-menu-react1)
 
@@ -99,7 +98,7 @@ _(private)_
 
 <br>
 
-##### Animations
+#### Animations
 
 [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
 
