@@ -132,7 +132,6 @@ _(private)_
 <br>
 <br>
 
-
 # TO CREATE A BASIC APP 🌵
 
 #### TYPE THE FOLLOWING IN THE UBUNTU CONSOLE
@@ -151,14 +150,17 @@ cd MYPERSO-MEYOKO
 #### You will have something like this
 
 ```javascript
-// Desktop/MYPERSO-MEYOKO2020$ 
+// Desktop/MYPERSO-MEYOKO2020$
 ```
 
 #### Once you got that, type this:
 
 ```javascript
+// just create a folder where you want to work and type that inside of it
+//
 //Example
 /Desktop/MYPERSO-MEYOKO2020$ npm install -g create-react-app
+
 // ETC ETC
 ```
 
@@ -173,6 +175,10 @@ create-react-app projectname // meyoko-portfolio , meyoko2020 etc DONT USE UPPER
 cd projectname // meyoko-portfolio , meyoko2020 etc
 // you can type : code . and open vs code from the ubuntu terminal and then type: npm start from there
 npm run start
+
+// or
+
+code . // if you want to launch Visual Studio
 //
 ```
 
