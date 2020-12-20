@@ -15,7 +15,7 @@
 > <br>
 
 _(private)_
-[nadia mariduena FINAL](https://github.com/nadiamariduena/nm-final)
+[ NM PORTFOLIO "FINAL" ](https://github.com/nadiamariduena/nm-final)
 
 [Testing the menu dropdown and the skew scroll](https://github.com/nadiamariduena/menu-hirstory-and-scroll-skew-test)
 
