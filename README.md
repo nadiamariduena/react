@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## REACT (Digital Career Institute) 
+## REACT (Digital Career Institute)
 
 #### React Final project for Digital Career Institute (DCI) 🌵
 
@@ -123,7 +123,6 @@ _(private)_
 
 _(private)_
 [Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
-
 
 <br>
 <br>
@@ -313,6 +312,84 @@ npm uninstall node-sass
 // 2
 npm install node-sass@4.14.1
 //  https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0
+```
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+# TO CREATE A BASIC APP with SERVICE WORKER 🦄
+
+> APPARENTLY "service worker" is no longer added when creating a react app
+
+- TO SOLVE THIS ISSUE
+
+```javascript
+npx create-react-app my-app --template cra-template-pwa
+```
+
+<br>
+<br>
+<br>
+
+#### FOLLOW THE STEPS ☁️
+
+- TYPE THE FOLLOWING IN THE UBUNTU CONSOLE
+
+```javascript
+cd // to go to the root
+ls // to see all the folders
+// once you choose a folder , type this:
+cd Desktop
+ls // to see more folders inside of the Desktop
+// since i want to create a folder inside the Documents , i can type the command or simply i just create a folder there, like MYPERSO-PROJECTS , after i created the folder i do this:
+cd MYPERSO-PROJECTS
+//
+```
+
+#### You will have something like this
+
+```javascript
+// /Desktop/MYPERSO-PROJECTS$
+// indicates you are inside the folder and you can now create the app
+```
+
+#### Once you got that, type this:
+
+```javascript
+// just create a folder where you want to work and type that inside of it
+//
+//Example
+/Desktop/MYPERSO-PROJECTS$ npm install -g create-react-app
+//  OR
+/Desktop/MYPERSO-PROJECTS$ npx create-react-app final-nm-npx --template cra-template-pwa
+
+```
+
+<br>
+
+##### READ THE COMMENTS 🌥️
+
+<br>
+
+```javascript
+// 1 once you have created a folder in which you want to create an app, type the following:
+npm install -g create-react-app
+// or
+/Desktop/MYPERSO-PROJECTS$ npx create-react-app final-nm-npx --template cra-template-pwa
+//
+//https://stackoverflow.com/questions/65060150/not-getting-service-worker-with-create-react-app
+//
+//
+// 2
+cd final-nm-npx // will enter the app you just created
+// 3 will launch VS code
+code .
+// 4
+// type this to launch the app on the browser
+npm run start
 ```
 
 <br>
