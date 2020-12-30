@@ -7,9 +7,9 @@
 <br>
 <br>
 
-## REACT (Digital Career Institute) 🌵
+## REACT (Digital Career Institute) 
 
-#### React Final project for Digital Career Institute (DCI)
+#### React Final project for Digital Career Institute (DCI) 🌵
 
 > All the apps related to the final project
 > <br>
@@ -117,8 +117,18 @@ _(private)_
 [React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
 <br>
+<br>
 
-#### Animations
+#### Unity3D - React 🦄
+
+_(private)_
+[Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
+
+
+<br>
+<br>
+
+#### Animations 🌟
 
 [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
 
