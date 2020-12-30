@@ -320,11 +320,11 @@ npm install node-sass@4.14.1
 <br>
 <br>
 
-# TO CREATE A BASIC APP with SERVICE WORKER 🦄
+# SERVICE WORKER 🦄
 
 > APPARENTLY "service worker" is no longer added when creating a react app
 
-- TO SOLVE THIS ISSUE
+- TO SOLVE THIS:
 
 ```javascript
 npx create-react-app my-app --template cra-template-pwa
