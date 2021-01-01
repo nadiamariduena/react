@@ -119,7 +119,7 @@ _(private)_
 <br>
 <br>
 
-#### Unity3D - React 🦄
+### Unity3D - React 🦄
 
 _(private)_
 [Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
@@ -127,14 +127,16 @@ _(private)_
 <br>
 <br>
 
-#### React VR 🦀
+### React VR 🏖️
 
-[REACT VR (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
+[React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
+
+[ReactVR intro 2 (images)](https://github.com/nadiamariduena/react-vr-intro2-images)
 
 <br>
 <br>
 
-#### Animations 🌟
+### Animations 🌟
 
 [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
 
