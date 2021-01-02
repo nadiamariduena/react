@@ -133,6 +133,9 @@ _(private)_
 
 [ReactVR intro 2 (images)](https://github.com/nadiamariduena/react-vr-intro2-images)
 
+
+[ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro2-video)
+
 <br>
 <br>
 
