@@ -1,6 +1,6 @@
 # ALL REACT RELATED
 
-- Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT
+- Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT (June 2020)
 
 <br>
 <br>
@@ -50,7 +50,7 @@ _(private)_
 <hr>
 <br>
 
-#### React DCI lessons
+### React DCI lessons
 
 [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
 
@@ -58,7 +58,7 @@ _(private)_
 
 <br>
 
-#### React Projects
+### React Projects
 
 [Shop](https://github.com/nadiamariduena/fluxushome-shop)
 
@@ -81,6 +81,30 @@ _(private)_
 [shop | props | search filter](https://nadiamariduena.github.io/react-router-intro-dci/)
 
 [simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+## React VR 🏖️ (REACT NATIVE)
+
+[React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
+
+[ReactVR intro 2 (images)](https://github.com/nadiamariduena/react-vr-intro2-images)
+
+[ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro3-video)
+
+[ReactVR intro 4 (importing 3D models)](https://github.com/nadiamariduena/react-vr-intro4-3dModels)
+
+<br>
+<br>
+
+## Unity3D - React 🦄
+
+_(private)_
+[Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
 
 <br>
 <br>
@@ -115,27 +139,6 @@ _(private)_
 [Firegram by Ninja "exercise"](https://github.com/nadiamariduena/Firegram)
 
 [React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
-
-<br>
-<br>
-
-### Unity3D - React 🦄
-
-_(private)_
-[Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
-
-<br>
-<br>
-
-### React VR 🏖️
-
-[React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
-
-[ReactVR intro 2 (images)](https://github.com/nadiamariduena/react-vr-intro2-images)
-
-[ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro3-video)
-
-[ReactVR intro 4 (importing 3D models)](https://github.com/nadiamariduena/react-vr-intro4-3dModels)
 
 <br>
 <br>
