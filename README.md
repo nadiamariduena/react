@@ -135,6 +135,8 @@ _(private)_
 
 [ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro3-video)
 
+[ReactVR intro 4 (importing 3D models)](https://github.com/nadiamariduena/react-vr-intro4-3dModels)
+
 <br>
 <br>
 
