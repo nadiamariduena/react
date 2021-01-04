@@ -49,8 +49,7 @@ _(private)_
 <br>
 
 _TESTING RESPONSIVENESS_
-
-_(private)_
+ 
 [test-responsive1](https://github.com/nadiamariduena/test-responsive1)
 
 <br>
