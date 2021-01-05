@@ -49,7 +49,7 @@ _(private)_
 <br>
 
 _TESTING RESPONSIVENESS_
- 
+
 [test-responsive1](https://github.com/nadiamariduena/test-responsive1)
 
 <br>
@@ -98,7 +98,7 @@ _TESTING RESPONSIVENESS_
 
 [React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
 
-[ReactVR intro 2 (images)](https://github.com/nadiamariduena/react-vr-intro2-images)
+[ReactVR intro 2 (images) | VERCEL video install ](https://github.com/nadiamariduena/react-vr-intro2-images)
 
 [ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro3-video)
 
@@ -525,6 +525,67 @@ disp→	MapDispatchToProps redux function
 
 <br>
 <br>
+<br>
 <hr>
 <br>
 <br>
+
+# VERCEL 👾 SET UP
+
+<br>
+
+<!-- [check the video](https://www.youtube.com/watch?v=lAJ6LyvW_cw) -->
+
+```javascript
+//  1 type , this will install it on the app
+ sudo npm i -g vercel
+//  2 type this , here you will start the process
+  vercel
+//
+// After loading, it will ask you some stuff
+//
+// 1) do you want to set up and deploy it to this directory? answer "Y"
+? Set up and deploy “~/Documents/all-Desktop/MYPERSO-YOURPROJECT/nadiamariduena-final/scrolltest2-nm-npx”? [Y/n] y
+//
+// TO which scope/account?
+? Which scope do you want to deploy to? nadiamariduena
+// Do you have any existing project with this name project? since its new , i will say "n"
+? Link to existing project? [y/N] n
+// is this really your project name? type ENTER
+? What’s your project’s name? scrolltest2-nm-npx
+// to this root? type ENTER
+? In which directory is your code located? ./
+// wait a bit ...
+> Upload [====================] 98% 0.2sAuto-detected Project Settings (Create React App):
+- Build Command: `npm run build` or `react-scripts build`
+- Output Directory: build
+- Development Command: react-scripts start
+//
+// Do you want vercel override your code settings? type "n"
+? Want to override the settings? [y/N] n
+//
+// then wait
+🔗  Linked to nadiamariduena/scrolltest2-nm-npx (created .vercel and added it to .gitignore)
+🔍  Inspect: https://vercel.com/nadiamariduena/scrolltest2-nm-npx/64agox0gj [2s]
+//
+// COPY the link to the browser and check the progress
+✅  Production: https://scrolltest2-nm-npx.vercel.app [copied to clipboard] [1m]
+📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+💡  To change the domain or build command, go to https://vercel.com/nadiamariduena/scrolltest2-nm-npx/settings
+```
+
+#### COPY the link to the browser and check the progress
+
+```javascript
+// test example
+✅  Production: https://scrolltest2-nm-npx.vercel.app
+```
+
+<br>
+<br>
+
+## TO DELETE 🌥️
+
+- Delete the folder vercel above/below the "node_modules" in your app.
+
+- then go to vercel and click on the 3 dots inside the app project, remove it!, then click on overview and you will see the "app" you deleted is still there, click on remove , it will bring you to another page where you have to accept that you want it removed, DONE!
