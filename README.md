@@ -27,7 +27,7 @@ _(private)_
 _(private)_
 [GSAP / three.js animations for nm portfolio ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
 
-[threejs all the animation options for the nm portfolio](https://github.com/nadiamariduena/three-js)
+[THREEjs | all the animation options for the nm portfolio](https://github.com/nadiamariduena/three-js)
 
 _(private)_
 [Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
