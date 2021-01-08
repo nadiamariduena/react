@@ -27,6 +27,8 @@ _(private)_
 _(private)_
 [GSAP / three.js animations for nm portfolio ](https://github.com/nadiamariduena/nadiamariduena-portfolio)
 
+[threejs all the animation options for the nm portfolio](https://github.com/nadiamariduena/three-js)
+
 _(private)_
 [Personal website meyoko final 2020 ](https://github.com/nadiamariduena/final-project)
 
@@ -51,6 +53,9 @@ _(private)_
 _TESTING RESPONSIVENESS_
 
 [test-responsive1](https://github.com/nadiamariduena/test-responsive1)
+
+_(private)_
+[test-responsive2 | cube and flag](https://github.com/nadiamariduena/test-responsive2)
 
 <br>
 <hr>
@@ -152,6 +157,8 @@ _(private)_
 ### Animations 🌟
 
 [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
+
+[threejs cube and flag (zoom in and zoom out) | 100% RESPONSIVE](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
 
 [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
 
