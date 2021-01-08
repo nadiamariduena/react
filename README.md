@@ -200,7 +200,7 @@ cd MYPERSO-MEYOKO
 #### You will have something like this
 
 ```javascript
-// Desktop/MYPERSO-MEYOKO2020$
+// Desktop/MYPERSO-PROJECTS
 ```
 
 #### Once you got that, type this:
@@ -209,20 +209,30 @@ cd MYPERSO-MEYOKO
 // just create a folder where you want to work and type that inside of it
 //
 //Example
-/Desktop/MYPERSO-MEYOKO2020$ npm install -g create-react-app
+/Desktop/MYPERSO-MYPROJECTS$ npm install -g create-react-app
 
 // ETC ETC
 ```
+
+<br>
+
+### THE APP creation
 
 - READ THE COMMENTS
 
 ```javascript
 // 1
-npm install -g create-react-app
-// 2
-create-react-app projectname // meyoko-portfolio , meyoko2020 etc DONT USE UPPERCASE!!
+npx create-react-app my-projectname
+// (npx comes with npm 5.2+ and higher, see instructions for older npm versions)
 //
-cd projectname // meyoko-portfolio , meyoko2020 etc
+// -----------
+//     or
+// -----------
+// 1
+npm init react-app my-projectname
+// npm init <initializer> is available in npm 6+
+// 2
+cd my-projectname // meyoko-portfolio , meyoko2020 etc
 // you can type : code . and open vs code from the ubuntu terminal and then type: npm start from there
 npm run start
 
