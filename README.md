@@ -57,6 +57,22 @@ _TESTING RESPONSIVENESS_
 _(private)_
 [test-responsive2 | cube and flag](https://github.com/nadiamariduena/test-responsive2)
 
+ <br>
+
+### ISSUES
+
+##### Issues with sass after upgrading node
+
+- NPX issues
+
+- node-sass-does-not-yet-support-your-current-environment-windows-64
+
+- Gyp module not found
+
+_(private)_
+
+[Sass | npx issues](https://github.com/nadiamariduena/issues-draco-pipeline-npx-sass)
+
 <br>
 <hr>
 <br>
