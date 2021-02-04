@@ -453,6 +453,260 @@ npm run start
 <br>
 <br>
 
+## How to deploy React App to GitHub Pages
+
+[check the video](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+
+- 1 npm init react-app my-app
+
+- 2 Install gh pages
+
+```javascript
+npm install gh-pages --save-dev
+```
+
+- 3 Create a repository in Github (copy the link of the repo)
+
+> example:  
+> git remote add origin git@github.com:Yuribenjamin/my-app.git
+
+<br>
+
+- 4 Go back to VS and type:
+
+```javascript
+// a
+git init //(press enter)
+//  b
+git commit -m "hello new update" //(press enter)
+// c  paste the repo name
+git remote add origin git@github.com:Yuribenjamin/my-app.git
+// d
+git push -u origin master // -u origin master is only used when its the first time you are going to do the connection to the repo, later you only use "git push".
+
+```
+
+<br>
+
+##### 5 Once the **connection to Git** has been made, **proceed to publish the page**.
+
+### 🌴
+
+##### 6 Go to your scripts (package.json) and add the following:
+
+- Go to the settings of your freshly created repo, scroll down to the bottom where it says **GitHub Pages**, once there, click the arrow and choose master (just to get the link) then click it back to None.
+
+> (if you are not careful about turning it back to normal , **it will be a mess**)
+
+<br>
+
+[<img src="./src/img/git-deploy1.gif"/>]()
+
+```javascript
+ {
+ //  ****   ADD the homepage, get rid of the dot at the end of the link ***
+  "homepage": "https://nadiamariduena.github.io/firstpersoncontrol-threejs/",
+  //
+  "name": "firstperson-control1-threejs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "node-sass": "^4.14.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "three": "^0.125.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    //  Add this  2 lines   ***** you need them to send the data to git
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    //
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    // you need this to make it work   ****
+    "gh-pages": "^3.1.0"
+  }
+}
+
+
+
+```
+
+#### 7) verify that everything is fine
+
+#### 8) Save the new data
+
+```javascript
+// a
+git add . //(press enter)
+//  b
+git commit -m "hello new update | homepage added to package.json etc" //(press enter)
+//
+// c  paste the repo name
+git push
+
+```
+
+#### 9) 🚀 type the following to prepare the packet of data you are going to send to git pages
+
+```javascript
+npm run build
+```
+
+ <br>
+
+#### 10) 🚀🚀 WE ARE READY to launch...
+
+- TYPE:
+
+```javascript
+npm run deploy
+```
+
+- **AFTER YOU TYPE** _"npm run deploy"_ , wait until it says it s "deployed", then wait 30 secs until the **url link** inside the settings (on the bottom) **turns from blue to green.**
+
+<br>
+
+[<img src="./src/img/predator-countdown.gif"/>]()
+
+# 🚀🚀
+
+## TEST IT
+
+- **Copy** the homepage "url link" and **paste** it in a browser
+
+<br>
+
+```javascript
+// example:
+"homepage": "https://nadiamariduena.github.io/firstpersoncontrol-threejs/",
+```
+
+<br>
+<br>
+
+[<img src="./src/img/rocket-fail.gif"/>]()
+
+<br> 
+<br>
+
+### 11) IF FOR SOME REASON... 🔴
+
+##### If you get a Blank page, add the following inside the App.js
+
+> basename={process.env.PUBLIC_URL}
+
+[Getting blank page after react app publish in github](https://stackoverflow.com/questions/54427793/getting-blank-page-after-react-app-publish-in-github)
+
+<br>
+
+- LIKE SO
+
+```javascript
+import React, { Component } from "react";
+// BrowserRouter    ***
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+//
+import Home from "./components/home/Home";
+
+class App extends Component {
+  render() {
+    return (
+      // ******    HERE    *******
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <div className="App">
+          <div id="wrapper-app">
+            <Switch>
+              <Route exact path="/" component={Home} />
+              {/* <Route exact path="/portfolio" component={Portfolio} /> */}
+            </Switch>
+          </div>
+        </div>
+      </BrowserRouter>
+    );
+  }
+}
+```
+
+#### 12) Save the new data (AGAIN)
+
+```javascript
+// a
+git add . //(press enter)
+//  b
+git commit -m "hello new update |  I added, BrowserRouter basename={process.env.PUBLIC_URL}" //(press enter)
+//
+// c  paste the repo name
+git push
+
+```
+
+#### 13) 🚀 type the following to prepare the packet of data you are going to send to git pages
+
+```javascript
+npm run build
+```
+
+ <br>
+
+#### 14) 🚀🚀 WE ARE READY to launch...
+
+- TYPE:
+
+```javascript
+npm run deploy
+```
+
+# 🚀🚀
+
+## TEST IT AGAIN ...
+
+- **Copy** the homepage "url link" and **paste** it in a browser
+
+```javascript
+// example:
+"homepage": "https://nadiamariduena.github.io/firstpersoncontrol-threejs/",
+```
+
+### It should work now :)
+
+[check the video](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+
+<br>
+<br>
+
+<hr>
+<br>
+<br>
+
 ## Simple React Snippets 🌵
 
 ```javascript
