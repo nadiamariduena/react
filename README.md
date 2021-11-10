@@ -4,9 +4,9 @@
 
 ### 🍯 NOTES:
 
-- Read more about the **Security:**
+- Read more about the [**Security here**](./src/security.md) ⬅️
 
-#### [Security](./src/security.md)
+- Read more about the [**Installation here**](./src/INSTALLATION_REACT.md) ⬅️
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-# DCI LESSONS 🐒
+# BEGINNER LESSONS 🐒
 
 [react 1](https://github.com/nadiamariduena/react-1)
 
