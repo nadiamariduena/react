@@ -16,9 +16,21 @@
 
 # DCI LESSONS 🐒
 
-### Beginner
+[react 1](https://github.com/nadiamariduena/react-1)
 
-<br>
+[react 2](https://github.com/nadiamariduena/react-3day/tree/master/src)
+
+[react 3](https://github.com/nadiamariduena/todo-react4)
+
+##### Exercises
+
+[to-do](https://github.com/nadiamariduena/todo-react)
+[fake instagram](https://github.com/nadiamariduena/portfolio-insta)
+[List / too many tries](https://github.com/nadiamariduena/react-list-dynamicnavbar)
+
+[Shop](https://github.com/nadiamariduena/fluxushome-shop)
+[API News](https://github.com/nadiamariduena/react-news-api)
+
 <br>
 
 [Json map images 1](https://github.com/nadiamariduena/react-json-version1)
@@ -37,25 +49,6 @@
 
 [simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
 
-<br>
-<br>
-
-<br>
-
-## React Lessons 🌟
-
-[react 1](https://github.com/nadiamariduena/react-1)
-[react 2](https://github.com/nadiamariduena/react-3day/tree/master/src)
-[react 3](https://github.com/nadiamariduena/todo-react4)
-
-##### Exercises
-
-[to-do](https://github.com/nadiamariduena/todo-react)
-[fake instagram](https://github.com/nadiamariduena/portfolio-insta)
-[List / too many tries](https://github.com/nadiamariduena/react-list-dynamicnavbar)
-
-[Shop](https://github.com/nadiamariduena/fluxushome-shop)
-[API News](https://github.com/nadiamariduena/react-news-api)
 
 <br>
 
