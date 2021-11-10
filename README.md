@@ -9,12 +9,11 @@
 - Read more about the [**Installation here**](./src/INSTALLATION_REACT.md) ⬅️
 
 <br>
-<br>
-<br>
-<br>
+ 
+<hr>
 <br>
 
-# BEGINNER LESSONS 🐒
+# BEGINNER LESSONS 🐻
 
 [react 1](https://github.com/nadiamariduena/react-1)
 
