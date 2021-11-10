@@ -2,14 +2,19 @@
 
 > Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT (June 2020) at Digital Career Institute.
 
+### 🍯 NOTES:
+
+- Read more about the **Security:**
+
+#### [Security](./src/security.md)
+
+<br>
 <br>
 <br>
 <br>
 <br>
 
-# REACT DCI 🐒
-
-<br>
+# DCI LESSONS 🐒
 
 ### Beginner
 
@@ -37,18 +42,24 @@
 
 <br>
 
-## React School Projects
+## React Lessons 🌟
+
+[react 1](https://github.com/nadiamariduena/react-1)
+[react 2](https://github.com/nadiamariduena/react-3day/tree/master/src)
+[react 3](https://github.com/nadiamariduena/todo-react4)
+
+##### Exercises
+
+[to-do](https://github.com/nadiamariduena/todo-react)
+[fake instagram](https://github.com/nadiamariduena/portfolio-insta)
+[List / too many tries](https://github.com/nadiamariduena/react-list-dynamicnavbar)
 
 [Shop](https://github.com/nadiamariduena/fluxushome-shop)
-
 [API News](https://github.com/nadiamariduena/react-news-api)
 
 <br>
-<br>
 
-### REACT (tutorials) 🌟
-
-<br>
+#### Recap 🌟
 
 ##### [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
 
@@ -69,6 +80,8 @@ _(private)_
 ##### [All about HOOKS](https://github.com/nadiamariduena/react-hooks-recap)
 
 ##### [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
+
+<br>
 
 <br>
 <br>
