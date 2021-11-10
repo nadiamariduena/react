@@ -49,7 +49,6 @@
 
 [simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
 
-
 <br>
 
 #### Recap 🌟
@@ -95,6 +94,10 @@ _(private)_
 
 ##### [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
 
+[<img src="./src/img/smooth_scrolling.gif"/>]()
+
+<br>
+
 ##### [threejs cube and flag (zoom in and zoom out) | 100% RESPONSIVE](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
 
 ##### [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
@@ -102,6 +105,10 @@ _(private)_
 ##### [image reveal](https://github.com/nadiamariduena/react-imgreveal-mini-portfolio1)
 
 ##### [image reveal gsap](https://github.com/nadiamariduena/react-img-reveal1-gsap)
+
+[<img src="./src/img/scroll_reveal.gif"/>]()
+
+<br>
 
 ##### [animated-portfolio-with-intersection-observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
 
