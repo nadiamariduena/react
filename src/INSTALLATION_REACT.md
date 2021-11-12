@@ -290,6 +290,78 @@ npm run start
 
 <br>
 <br>
+<br><br>
+
+# 🍨
+
+### CONNECTION TO GITHUB
+
+<br>
+
+- When you create a **github repository** in the github page, you should know that you need to grab the commands from that specific repository to initialize the **repository** in your Visual studio code. You will do the same each time you have a new project, you will only have to change the name of the **repository**.
+
+- Grab the commands
+
+```javascript
+// a
+git init //(press enter)
+//  b
+git commit -m "hello new update" //(press enter)
+// c  paste the repo name
+git remote add origin git@github.com:Yuribenjamin/my-app.git
+// d
+git push -u origin master // -u origin master is only used when its the first time you are going to do the connection to the repo, later you only use "git push".
+
+
+```
+
+<br>
+
+- **git push -u origin master**
+
+<br>
+
+> Is **only used when its the first time you are going to do the connection to the repo in VS**, later you only use **"git push"**. 👍
+
+<br>
+<br>
+
+## FIRST COMMIT 🍦
+
+<br>
+
+- **After you made the connection** to Github, you will only need the commands below:
+
+```javascript
+// a
+// the dot at the end menas that you will add the update to all the content of the project. (all that needs to be updated)
+git add . //(press enter)
+//  b
+git commit -m "hello new update" //(press enter)
+
+// c
+git push
+
+```
+
+- Sometimes there will be errors when pushing, most of the time its due to passwords or too much data (exceedi capacity 100mb) , it happen to me when working with 3D models
+
+<br>
+<br>
+<br>
+
+### ISSUES RELATED TO PASSWORD 🔴
+
+#### [Reac this: Git push results in "Authentication Failed"](https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed)
+
+### Solution
+
+- Check min 3:26
+
+[How to Fix Git Fatal: Authentication Failed New and Easy Method](https://www.youtube.com/watch?v=uRNIc5AILlI)
+
+<br>
+<br>
 <hr>
 <br>
 <br>
