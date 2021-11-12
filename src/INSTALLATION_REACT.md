@@ -1,108 +1,157 @@
 <br>
 <br>
 
-# 🐒
+# 🍯
 
-##### CREATING AN APP / ISSUES / DEPLOYING TO GITHUB OR VERCEL /
+##### - CREATING AN APP /
 
-<br>
-<br>
+##### - ISSUES /
 
-## TO CREATE A BASIC APP
-
-- TYPE THE FOLLOWING IN THE UBUNTU CONSOLE:
-
-<br>
-
-### Create a new folder and inside the folder open a terminal
-
-<br
-
-```javascript
-cd // to go to the root
-ls // to see all the folders
-// once you choose a folder , type this:
-cd Desktop
-ls // to see more folders inside of the Desktop
-// since i want to create a folder inside the Documents , i can type the command or simply i just create a folder there, like MYPERSO-MEYOKO , after i created the folder i do this:
-cd my-new-project
-//
-```
-
-##### You will have something like this
-
-```javascript
-// Desktop/my-new-project
-```
-
-##### Once you got that, type this:
-
-```javascript
-// just create a folder where you want to work and type that inside of it
-//
-//Example
-/Desktop/my-new-project$ npm install -g create-react-app
-
-// ETC ETC
-```
+##### - DEPLOYING TO GITHUB OR VERCEL /
 
 <br>
 <br>
+<br>
+<hr>
+<br>
 
-#### [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
+## [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 
 > **Npm** is a tool that use to install packages. **Npx** is a tool that use to execute packages. Packages used by npm are installed globally you have to care about pollution for the long term. **Packages used by npx are not installed globally so you have to carefree for the pollution** for the long term.
 
 <br>
 <br>
+<br>
+<hr>
+<br>
+# OPTION 1  🍌
 
-### Installing with NPX
+### TO CREATE A BASIC APP (from the terminal)
 
-- READ THE COMMENTS
+<br>
+
+- **TYPE THE FOLLOWING** IN THE UBUNTU CONSOLE, this will help you to **set up a project:**
+
+<br>
 
 ```javascript
-// 1
-npx create-react-app my-project-name
-// (npx comes with npm 5.2+ and higher, see instructions for older npm versions)
+cd // to go to the root
+ls // to see all the folders, i have
 //
-// -----------
-//     or
-// -----------
-// 1
-npm init react-app my-project-name
-// npm init <initializer> is available in npm 6+
-// 2
-cd my-project-name // meyoko-portfolio , meyoko2020 etc
-// you can type : code . and open vs code from the ubuntu terminal and then type: npm start from there
-npm run start
+// In case you want to create in the desktop,
+//  type this:
+cd Desktop
+ls // to see more folders inside of the Desktop
+// since i want to create a folder inside the Documents , i can type:
+cd Documents
+ls
+// Now that i am inside the Documents, i will type
+// the following to create a new folder:
 
-// or
-
-code . // if you want to launch Visual Studio
+mkdir my-new-project
+// now check if the freshly created folder is there:
+ls
+//
+//now type the following to go inside the folder
+// you will need to be inside the folder path to install the react-app
+cd my-new-project
 //
 ```
 
 <br>
 
-#### RESULT
+- Since you are creating a project (with whatever name you decided to choose), you will not need to add a name in the next step, you will only need to install the **react-app** by typing the following.
 
-- AFTER THE INSTALLATON, you will have something like this, but if there s something you don't see, you will have to install it manually/separately.
+#### Once you create the folder
+
+- If you notice: you are inside your project folder **/my-new-project$** (its important, as if you don't do it inside that path, you are going to build it somewhere else)
+
+```javascript
+
+//Example
+/Desktop/my-new-project$
+
+```
 
 <br>
 
-- GSAP, SCSS AND OTHER DEPENDENCIES MUST BE INSTALLED SEPARATELY
+##### Use the following command to start building react inside your project
+
+```javascript
+ npm install -g create-react-app
+```
+
+```javascript
+//your path$ , followed by the command:
+/Desktop/my-new-project$ npm install -g create-react-app
+```
+
+<br>
+<br>
+<br>
+<br>
+
+# OPTION 2 🍌
+
+### Installing with NPX
+
+<br>
+
+- Go to a folder. lets say you choose the Documents, open it, then create a folder, call it react (or whatever), then open it, inside the folder 'react' **click** right and choose **open in terminal**.
+
+<br>
+
+- Once in the terminal, type the following command:
+
+```javascript
+// npx create-react-app (dont touch this)
+npx create-react-app my-super-new-project-name
+// my-super-new-project-name (is whatever name you choose)
+// use lowercase, not capital or uppercase
+// (npx comes with npm 5.2+ and higher versions, see instructions for older npm versions)
+//
+```
+
+##### Wait until the app finishes to install
+
+- If all went well, it will show a message like
+
+> **Happy hacking**
+
+#### to launch it inside visual studio code
+
+```javascript
+code .
+//
+```
+
+<br>
+
+# RESULT
+
+<br>
+
+- **AFTER THE INSTALLATON**, you will have something like this inside the folders of the app you just created.
+
+<br>
+
+### SCRIPTS
+
+- GSAP, **SCSS** AND OTHER DEPENDENCIES MUST BE INSTALLED SEPARATELY
 
 ```javascript
 {
-  "name": "nm-port-menu-akram-test",
+  "name": "nm-port-menu-akram-test", //your app name
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
+    //
     "gsap": "^3.5.1",
     "node-sass": "^4.14.1",
+    //
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router": "^5.2.0",
@@ -111,7 +160,7 @@ code . // if you want to launch Visual Studio
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start", //to launch the app
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -119,7 +168,7 @@ code . // if you want to launch Visual Studio
   "eslintConfig": {
     "extends": [
       "react-app",
-      "react-app/jest"
+      "react-app/jest" //for testing
     ]
   },
   "browserslist": {
@@ -138,11 +187,50 @@ code . // if you want to launch Visual Studio
 
 ```
 
+### The default
+
+> **The default react app**, will give you a project ready to visualize.(its the basic, later on you will decide what you keep and what you remove)
+
+#### Inside the <u>package.json</u>
+
+- You will find this block of code (comes from the one above)
+
+```javascript
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+```
+
+#### this piece of code
+
+- is what gives you the following commands:
+
+```javascript
+npm  start //will launch the app on the browser
+npm run build
+```
+
+#### npm start to <u>launch the app</u>
+
 <br>
-<br>
+#### [What is "npm run build" in create-react-app?](https://stackoverflow.com/questions/43830866/what-is-npm-run-build-in-create-react-app)
+
+- Developers often **break JavaScript and CSS out into separate files**. Separate files let you focus on writing more modular chunks of code that do one single thing. Files that do one thing decrease your cognitive load as maintaining them is a quite cumbersome task.
+
+> What happens exactly behind the scene?
+
+- **When it’s time to move your app to production**, having multiple JavaScript or CSS files isn’t ideal. When a user visits your site, each of your files will require an additional **HTTP request**, making your site slower to load. So to remedy this, you can create a **“build”** of our app, which merges all your CSS files into one file, and does the same with your JavaScript. This way, you minimize the number and size of files the user gets. To create this “build”, you use a **“build tool”**. Hence the use of npm run build.
+
 <br>
 
-# 🍌
+#### Read more here: [What is "npm run build" in create-react-app? ](https://stackoverflow.com/questions/43830866/what-is-npm-run-build-in-create-react-app)
+
+<br>
+<br>
+<br>
 
 #### INSTALL REACT (manually/not recommended)
 
@@ -168,9 +256,11 @@ npm i react-router-dom
 npm i aos --save //animation dependency
 ```
 
-### SCRIPTS
+<br>
 
-#### these are custom commands to deploy (read more in the section deploy)
+### MORE SCRIPTS
+
+##### these are custom commands to deploy (read more in the section deploy)
 
 ```javascript
   "scripts": {
@@ -178,27 +268,15 @@ npm i aos --save //animation dependency
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "killnode": "lsof -ti :8000 | xargs kill"
+    "killnode": "lsof -ti :8000 | xargs kill" //kill server
   },
 ```
 
 <br>
 
-## INSTALLING SASS
-
-#### SASS related issues
-
-```javascript
-// 1 if you already installed it and it caused issues
-npm uninstall node-sass
-// 2
-npm install node-sass@4.14.1
-//  https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0
-```
-
 <br>
 
-### ISSUES
+### ISSUES 🔴
 
 ##### Issues with sass after upgrading node
 
@@ -211,6 +289,24 @@ npm install node-sass@4.14.1
 _(private)_
 
 [Sass | npx issues](https://github.com/nadiamariduena/issues-draco-pipeline-npx-sass)
+
+# 🌈
+
+## SOLUTION
+
+- Instead of copying and pasting the scss related scripts, you have to uninstall and install it again with the following commands.
+
+<br>
+
+#### INSTALLING SASS
+
+```javascript
+// 1 if you already installed it and it caused issues
+npm uninstall node-sass
+// 2
+npm install node-sass@4.14.1
+//  https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0
+```
 
 <br>
 <br>
