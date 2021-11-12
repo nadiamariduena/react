@@ -51,7 +51,23 @@ https://www.mockupworld.co/free/iphone-13-clay-style-mockup/
 
 https://www.mockupworld.co/free/hand-holding-iphone-mockup/
 
-https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
+https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/
+
+slider
+
+no responsive
+
+https://codesandbox.io/s/draggable-slider-with-gsap-c5lem?file=/src/components/Slider.js
+
+
+https://www.npmjs.com/package/react-draggable-slider
+
+private
+https://codesandbox.io/s/app-store-ui-using-react-and-framer-motion-ecgc2?file=/src/CardList.tsx
+
+https://www.youtube.com/watch?v=IOfoHJC4hwk
+
+-->
 
 <br>
 <hr>
@@ -170,6 +186,16 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 #### [framer motion Developers](https://www.framer.com/docs/examples/)
 
 <br>
+
+### Transitions
+
+##### [AOS preview](https://michalsnik.github.io/aos/)
+
+##### [AOS documentation](https://github.com/michalsnik/aos#animations)
+
+##### [Page Animations On Scrolling In ReactJS](https://www.youtube.com/watch?v=JcHLxzrsRS4)
+
+<br>
 <hr>
 <br>
 
@@ -200,6 +226,8 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 
 ##### [panning](https://library.superhi.com/posts/how-to-add-panning-to-a-gallery-with-css-and-javascript)
 
+<!-- https://library.superhi.com/posts/how-to-make-an-overlay-logo-with-an-outline-effect-using-css -->
+
 # Schools
 
 ##### [codecademy](https://www.codecademy.com/)
@@ -217,3 +245,16 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 ##### [uijar](https://uijar.com/)
 
 ##### [brutalistwebsites](https://brutalistwebsites.com/)
+
+<br>
+<br>
+<br>
+<br>
+
+# Important 🔴
+
+#### [Responsive Web Design – How to Make a Website Look Good on Phones and Tablets](https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/?fbclid=IwAR0YCifjBx1kjMwNlvHHXvwy7pP_0JcasNasWbbyrojng5i9Ddnp3Dmqexw)
+
+<br>
+
+#### [Why Site Speed is Critical for SEO – and How to Speed Up Your Site](https://www.freecodecamp.org/news/why-site-speed-is-critical-for-seo-and-how-to-speed-up-your-site/?fbclid=IwAR1lS5Jl8e9HT_BcIwe58qIf_DpoYC3KsmkHZRlMto1tAWhqE0UGEouaE5o)
