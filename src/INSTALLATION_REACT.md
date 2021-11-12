@@ -264,6 +264,17 @@ npm i aos --save //animation dependency
 
 <br>
 
+# package.json 🐤
+
+> This file can contain a lot of meta-data about your project. But mostly it will be used for two things:
+
+- Managing dependencies of your project
+- Scripts, that helps in generating builds, running tests and other stuff in regards to your project
+
+#### [read more](https://medium.com/@shgautam/why-package-json-npm-basics-cab3e8cd150)
+
+<br>
+
 ### MORE SCRIPTS
 
 ##### these are custom commands to deploy (read more in the section deploy)

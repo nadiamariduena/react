@@ -246,6 +246,17 @@ git config --global -e
 
 ## MISC
 
+[First steps with git: clone, add, commit, push Intro version control git](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/)
+
+[Copying a GitHub Repository to Your Local Computer](https://youtu.be/O72FWNeO-xY)
+
+<br>
+<br>
+
+# VISUAL STUDIO CODE
+
+##### [Default Keyboard shortcut schemes](https://www.jetbrains.com/help/resharper/Reference__Keyboard_Shortcuts.html#coding_assistance)
+
 ##### [20 BEST VSCODE EXTENSIONS TO IMPROVE YOUR PRODUCTIVITY](https://x-team.com/blog/best-vscode-extensions/#git-history)
 
 #### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
@@ -257,6 +268,10 @@ git config --global -e
 <br>
 
 <br>
+
+# UBUNTU
+
+#### video [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
 
 #### video [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 

@@ -71,6 +71,12 @@ https://www.npmjs.com/package/react-simple-image-slider
 
 
 ##### [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+
+
+https://vsco.co/
+
+nth child selector
+https://www.youtube.com/watch?v=TVj1avJj8a8
 -->
 
 <br>
@@ -94,12 +100,32 @@ https://www.npmjs.com/package/react-simple-image-slider
 ##### [dafont](https://www.dafont.com/fr/)
 
 <br>
+<br>
+
+#### SCSS related
+
+##### [Confused About REM and EM?](https://j.eremy.net/confused-about-rem-and-em/)
+
+##### [Font Face](https://gist.github.com/jonathantneal/d0460e5c2d5d7f9bc5e6)
+
+##### [How to Bend and Set Text on a Circle With CSS](https://1stwebdesigner.com/set-text-on-a-circle-with-css/)
+
+##### [How TO - Responsive Text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+
+##### [Semantic HTML](https://www.pluralsight.com/guides/semantic-html)
+
+> There are over a billion websites on the Internet. Many of them are made a long time ago and have not been updated with HTML features. **As such, search engines move past these websites, and viewers find these websites difficult to read.** <br>
+> One of the most important features of HTML5 is its semantics. Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content. For example, instead of using div id="header" you can use a header tag.
+
+<br>
 
 <br>
 
 ## Colors
 
 ##### [pick hex color codes: htmlcolorcodes](https://htmlcolorcodes.com/)
+
+#### [ HSLa](https://css-tricks.com/yay-for-hsla/)
 
 ##### [webgradients](https://webgradients.com/)
 
@@ -109,11 +135,17 @@ https://www.npmjs.com/package/react-simple-image-slider
 
 ##### [gradients-in-web-design-elements](https://www.awwwards.com/gradients-in-web-design-elements.html)
 
-<br>
+##### [How TO - Background Gradient on Scroll](https://www.w3schools.com/howto/howto_css_bg_gradient_scroll.asp))
+
+##### SCSS Colors Functions
+
+##### [Controlling color with Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
 
 <br>
 
-#### Some cool stuff
+<br>
+
+#### Interesting
 
 ##### [UX/UI Design Trends 2022](https://youtu.be/YRIHdCJqQOg)
 
@@ -194,6 +226,15 @@ https://www.npmjs.com/package/react-simple-image-slider
 
 <br>
 
+### IMG styles scss/css
+
+#### [Use CSS ::before and ::after for simple, spicy image overlays](https://bryanlrobinson.com/blog/how-to-css-after-elements-for-background-overlays/)
+
+#### [A guide to CSS animations using clip-path()](https://blog.logrocket.com/guide-to-css-animations-using-clip-path/)
+
+<br>
+<br>
+
 ## Material UI
 
 [<img src="../src/img/material_ui.jpg"/>](https://www.codecademy.com/)
@@ -212,6 +253,10 @@ https://www.npmjs.com/package/react-simple-image-slider
 
 <br>
 
+#### [cloud sun | Animation Direction Example](https://codepen.io/rachelcope/pen/YPzZrg)
+
+<br>
+
 ### Transitions
 
 ##### [AOS preview](https://michalsnik.github.io/aos/)
@@ -219,6 +264,12 @@ https://www.npmjs.com/package/react-simple-image-slider
 ##### [AOS documentation](https://github.com/michalsnik/aos#animations)
 
 ##### [Page Animations On Scrolling In ReactJS](https://www.youtube.com/watch?v=JcHLxzrsRS4)
+
+<br>
+
+#### Transform CSS Generator
+
+##### [Transform CSS Generator: Scale, Rotate, Translate and Skew](https://html-css-js.com/css/generator/transform/)
 
 <br>
 <hr>
@@ -296,8 +347,31 @@ https://www.npmjs.com/package/react-simple-image-slider
 
 ##### [how-to-use-styles-in-a-react / Why Do People Argue Over CSS-in-JS?](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/)
 
-##### [How to combine SASS color functions and CSS Variables](https://codyhouse.co/blog/post/how-to-combine-sass-color-functions-and-css-variables)
+<br>
+<br>
+<hr>
+<br>
+
+# SCSS
+
+#### [How to combine SASS color functions and CSS Variables](https://codyhouse.co/blog/post/how-to-combine-sass-color-functions-and-css-variables)
 
 <br>
 
 #### [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
+
+#### [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+
+#### [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
+
+#### [CSS-only dark mode](https://kleinfreund.de/css-only-dark-mode/)
+
+<br>
+
+#### [CSS Tutorial For Beginners 23 - nth Child Selectors](https://youtu.be/TVj1avJj8a8)
+
+#### [Create Diagonal Layouts Like It's 2020](https://9elements.com/blog/pure-css-diagonal-layouts/)
+
+#### [10 Ways to Hide Elements in CSS](https://www.sitepoint.com/hide-elements-in-css/)
+
+#### [FLEXBOX FROGGY](https://flexboxfroggy.com/)
