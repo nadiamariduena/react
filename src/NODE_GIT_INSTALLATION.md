@@ -325,6 +325,9 @@ The tar command is used for archiving files and extracting them. It is a very po
 
 #### [File Permissions in Linux/Unix: How to Read/Write & Change?](https://www.guru99.com/file-permissions.html)
 
+#### [How to Uninstall Programs from your Ubuntu System](https://vitux.com/how-to-uninstall-programs-from-your-ubuntu-system/)
+
 <br>
 <br>
+
 <hr>
