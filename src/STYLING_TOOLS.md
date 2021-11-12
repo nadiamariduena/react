@@ -67,6 +67,10 @@ https://codesandbox.io/s/app-store-ui-using-react-and-framer-motion-ecgc2?file=/
 
 https://www.youtube.com/watch?v=IOfoHJC4hwk
 
+https://www.npmjs.com/package/react-simple-image-slider
+
+
+##### [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 -->
 
 <br>
@@ -137,6 +141,25 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 
 <br>
 
+#### [Font Awesome](https://fontawesome.com/)
+
+[How To Use Font Awesome 5 with React](https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react)
+
+<br>
+
+# Figma 🍨
+
+#### [figma](https://www.figma.com/)
+
+> Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes in real-time on mobile devices
+
+[<img src="../src/img/figma.gif"/>](https://www.youtube.com/watch?v=dXQ7IHkTiMM)
+
+- [Figma tutorial 1](https://www.youtube.com/watch?v=dXQ7IHkTiMM)
+- [Figma tutorial 2](https://www.youtube.com/watch?v=EK-pHkc5EL4)
+
+<br>
+
 ## SVG generators 🖐️
 
 #### [draw svg](https://editor.method.ac/)
@@ -156,6 +179,8 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 #### [svg-shape-generator](https://www.softr.io/tools/svg-shape-generator)
 
 - check the tutorial [Create an SVG blob morphing animation with no JavaScript](https://www.youtube.com/watch?v=A1GeA1nF0nU)
+
+[things you can do](https://wadeandleta.com/studio)
 
 <br>
 
@@ -179,7 +204,7 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 
 <br>
 
-## Framer-motion 🌈
+### Animations 🌈
 
 #### [framer motion](https://www.framer.com/motion/)
 
@@ -217,6 +242,16 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 #### [Pexels](https://www.pexels.com/search/fashion/)
 
 <br>
+
+#### Social media tools
+
+#### [Mega Creator ](https://icons8.com/mega-creator)
+
+[<img src="../src/img/mega-creator.gif"/>](https://www.codecademy.com/)
+
+> **Mega Creator** gives you unlimited ways to make astonishing design for every need. Design new stuff with graphics from the in-house production company.
+
+<br>
 <hr>
 <br>
 
@@ -232,7 +267,9 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 
 ##### [codecademy](https://www.codecademy.com/)
 
-##### [superhi](https://www.superhi.com/)
+#### [superhi](https://www.superhi.com/)
+
+##### [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/?fbclid=IwAR10lMD7INWsEc1e0YIVsGUk0rIORAMKkVhSQ1THsNC2xeS441lEDDLQYjw)
 
 <br>
 <hr>
@@ -255,6 +292,12 @@ https://www.youtube.com/watch?v=IOfoHJC4hwk
 
 #### [Responsive Web Design – How to Make a Website Look Good on Phones and Tablets](https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/?fbclid=IwAR0YCifjBx1kjMwNlvHHXvwy7pP_0JcasNasWbbyrojng5i9Ddnp3Dmqexw)
 
+##### [Why Site Speed is Critical for SEO – and How to Speed Up Your Site](https://www.freecodecamp.org/news/why-site-speed-is-critical-for-seo-and-how-to-speed-up-your-site/?fbclid=IwAR1lS5Jl8e9HT_BcIwe58qIf_DpoYC3KsmkHZRlMto1tAWhqE0UGEouaE5o)
+
+##### [how-to-use-styles-in-a-react / Why Do People Argue Over CSS-in-JS?](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/)
+
+##### [How to combine SASS color functions and CSS Variables](https://codyhouse.co/blog/post/how-to-combine-sass-color-functions-and-css-variables)
+
 <br>
 
-#### [Why Site Speed is Critical for SEO – and How to Speed Up Your Site](https://www.freecodecamp.org/news/why-site-speed-is-critical-for-seo-and-how-to-speed-up-your-site/?fbclid=IwAR1lS5Jl8e9HT_BcIwe58qIf_DpoYC3KsmkHZRlMto1tAWhqE0UGEouaE5o)
+#### [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)

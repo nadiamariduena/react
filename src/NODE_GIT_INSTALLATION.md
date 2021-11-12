@@ -248,7 +248,17 @@ git config --global -e
 
 ##### [20 BEST VSCODE EXTENSIONS TO IMPROVE YOUR PRODUCTIVITY](https://x-team.com/blog/best-vscode-extensions/#git-history)
 
-##### video [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+#### [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+
+##### [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+##### [MDN Web Docs Glossary: Definitions of Web-related terms](https://developer.mozilla.org/en-US/docs/Glossary)
+
+<br>
+
+<br>
+
+#### video [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 
 <br>
 <hr>
@@ -308,6 +318,12 @@ The chown command is very much similar to the chmod command. But instead of chan
 The tar command is used for archiving files and extracting them. It is a very popular command for compressing files and can tackle such tasks very efficiently.
 
 #### visit the site for more commands: [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+
+##### [What is the main difference between chmod and chown?](https://askubuntu.com/questions/918379/what-is-the-main-difference-between-chmod-and-chown)
+
+<br>
+
+#### [File Permissions in Linux/Unix: How to Read/Write & Change?](https://www.guru99.com/file-permissions.html)
 
 <br>
 <br>

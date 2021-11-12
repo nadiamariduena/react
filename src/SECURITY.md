@@ -4,6 +4,8 @@
 
 <br>
 
+##### [Why do people put the .env into gitignore?](https://stackoverflow.com/questions/43664565/why-do-people-put-the-env-into-gitignore/43664611)
+
 ## Steps
 
 - create a file **.gitignore** in your root directory (outside public, node_modules and the src folder)
