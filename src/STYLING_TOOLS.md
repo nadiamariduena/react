@@ -103,7 +103,7 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 
 #### HTML Symbols ⬅️
 
-##### [symbols: arrows etc](https://www.toptal.com)
+##### [symbols: arrows etc](https://www.toptal.com/designers/htmlarrows/symbols/)
 
 # Icons 🌈
 
