@@ -3,18 +3,20 @@
 
 # 🐒
 
-## CREATING AN APP / ISSUES / DEPLOYING TO GITHUB OR VERCEL /
+##### CREATING AN APP / ISSUES / DEPLOYING TO GITHUB OR VERCEL /
 
 <br>
 <br>
 
 ## TO CREATE A BASIC APP
 
-##### TYPE THE FOLLOWING IN THE UBUNTU CONSOLE:
+- TYPE THE FOLLOWING IN THE UBUNTU CONSOLE:
 
 <br>
 
-### Installing with NPX
+### Create a new folder and inside the folder open a terminal
+
+<br
 
 ```javascript
 cd // to go to the root
