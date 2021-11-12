@@ -246,4 +246,69 @@ git config --global -e
 
 ## MISC
 
-[20 BEST VSCODE EXTENSIONS TO IMPROVE YOUR PRODUCTIVITY](https://x-team.com/blog/best-vscode-extensions/#git-history)
+##### [20 BEST VSCODE EXTENSIONS TO IMPROVE YOUR PRODUCTIVITY](https://x-team.com/blog/best-vscode-extensions/#git-history)
+
+##### video [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+
+<br>
+<hr>
+
+#### [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+
+#### 1. pwd
+
+pwd stands for Print Work directory and does exactly what you think – it shows the directory you’re currently in. This is one of the handiest Linux terminal commands that aims to make new user’s life peaceful by ensuring they don’t get lost in that seemingly cryptic terminal window.
+
+#### 2. ls
+
+The ls command is probably one of the most widely used commands in the Unix world. It presents to you the contents of a particular directory – both files and directories. You will use this command alongside pwd to navigate your ways inside the mighty Unix filesystem.
+
+#### 3. cd
+
+Short for Change Directory, the cd command is behind your movement from one directory to another. It’s one of the few Linux commands that you’re bound to use throughout your stint with the Linux system. This command makes life in front of the terminal less scary for beginners while providing a standard method to browse the entire filesystem of your device.
+
+#### 4. mkdir
+
+Want to create a new folder through the terminal? The mkdir command is created for just this specific purpose. It lets you create folders anywhere you like in your Linux system – given you have got the necessary permission, of course!
+
+#### 5. rmdir
+
+The arch rival of the mkdir command, the rmdir command allows you to delete specific folders from your system without any hassles. Although many utilize the rm command for this purpose, screwing up parameters or even a single character with rm can do things you wouldn’t even dream. So, stick with rmdir for now.
+
+#### 6. lsblk
+
+Often you will find the need to list the available block devices of your Linux system. The lsblk is one of the most used Linux commands for this purpose. This handy terminal command will present you with a tree structure of your block devices and is used heavily by professional users.
+
+#### 7. mount
+
+Contrary to Windows, whenever you plug in an SD card or a USB, chances are your distro won’t show them directly at the start. You need to mount it with your existing filesystem using the mount command. This Linux command is one of the most powerful terminal commands out there.
+
+#### 8. df
+
+The df command is one of the most empowering Linux terminal commands that display essential information about the disk space on your filesystem. It is used widely by system administrators to monitor and analyze real-time server or network-oriented systems.
+
+#### 44. sort
+
+The sort command is quite compelling at the things it does. Whenever you find the need to sort out a file in an alphabetical or reverse manner, utilize this command.
+
+#### 45. sudo
+
+The sudo command is the holy grail of Linux commands. It lets non-privileged users access and modify files that require low-level permissions. Often you will use this command to access root from your regular user account.
+
+#### 46. chmod
+
+The chmod command is among the most powerful Linux commands you will use to change or modify the access permissions of system files or objects. This command can take a very diverse set of parameters from users and, based on those changes, the file permission.
+
+#### 47. chown
+
+The chown command is very much similar to the chmod command. But instead of changing access permissions, it enables users to change the ownership of a file or directory. Both the chmod and chown terminal commands require root privileges to run.
+
+#### 49. tar
+
+The tar command is used for archiving files and extracting them. It is a very popular command for compressing files and can tackle such tasks very efficiently.
+
+#### visit the site for more commands: [The 50 Most Useful Linux Commands To Run in the Terminal](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+
+<br>
+<br>
+<hr>
