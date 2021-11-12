@@ -163,6 +163,12 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 
 <br>
 
+## Framer-motion 🌈
+
+#### [framer motion](https://www.framer.com/motion/)
+
+#### [framer motion Developers](https://www.framer.com/docs/examples/)
+
 <br>
 <hr>
 <br>
@@ -170,6 +176,19 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 # Mockups tools
 
 ##### [All free Mockups: Magazines & Books, iPhone, iPad, MacBook, iMac, Packaging, Signs, Vehicles, Apparel, Food and Beverages, Cosmetics and more!](https://www.mockupworld.co/)
+
+<br>
+<br>
+
+# FREE images 🍨
+
+#### [unsplash: Food & Drink](https://unsplash.com/t/food-drink)
+
+#### [unsplash: fashion](https://unsplash.com/t/fashion)
+
+<br>
+
+#### [Pexels](https://www.pexels.com/search/fashion/)
 
 <br>
 <hr>
