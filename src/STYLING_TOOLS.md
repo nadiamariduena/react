@@ -77,6 +77,31 @@ https://vsco.co/
 
 nth child selector
 https://www.youtube.com/watch?v=TVj1avJj8a8
+
+
+https://javascript.info/constructor-new
+
+https://www.youtube.com/watch?v=bq_jZY6Skto&t=354s
+
+https://www.youtube.com/watch?v=iDuOjpRGYE4&list=PL_c9BZzLwBRLVh9OdCBYFEql6esA6aRsi&index=75
+
+https://stackoverflow.com/questions/45477625/how-to-calculate-the-amount-for-total-hours-in-javascript
+
+
+https://stackoverflow.com/questions/53860875/calculating-overtime-with-momentjs-and-ranges
+
+
+https://www.youtube.com/watch?v=N3cq0BHDMOY
+
+How to Code a Piano App with React JS
+https://www.youtube.com/watch?v=kMf1XWVY2cA
+
+
+https://naveenr.net/unicode-character-set-and-utf-8-utf-16-utf-32-encoding/
+
+
+
+https://mui.com/components/slider/
 -->
 
 <br>
@@ -108,7 +133,19 @@ https://www.youtube.com/watch?v=TVj1avJj8a8
 
 ##### [Font Face](https://gist.github.com/jonathantneal/d0460e5c2d5d7f9bc5e6)
 
+<br>
+
 ##### [How to Bend and Set Text on a Circle With CSS](https://1stwebdesigner.com/set-text-on-a-circle-with-css/)
+
+##### [Circle text rotation with SVG](https://codepen.io/Shaikat/pen/PapGpr)
+
+##### [Emblem - Auto generate circular text](https://codepen.io/georgehastings/pen/akZxaz)
+
+<br>
+
+##### [82 CSS Text Effects](https://freefrontend.com/css-text-effects/)
+
+<br>
 
 ##### [How TO - Responsive Text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
 
@@ -340,6 +377,8 @@ https://www.youtube.com/watch?v=TVj1avJj8a8
 <br>
 
 # Important 🔴
+
+#### [What are viewport units?](https://css-tricks.com/fun-viewport-units/)
 
 #### [Responsive Web Design – How to Make a Website Look Good on Phones and Tablets](https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/?fbclid=IwAR0YCifjBx1kjMwNlvHHXvwy7pP_0JcasNasWbbyrojng5i9Ddnp3Dmqexw)
 
