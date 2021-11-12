@@ -1,6 +1,6 @@
 # REACT 2019-2021
 
-> Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT (from June 2020 ) at Digital Career Institute until today.
+> Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT at Digital Career Institute until today.
 
 ### 🍯 NOTES:
 
