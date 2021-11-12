@@ -129,7 +129,7 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 
 #### [pattern](https://pattern.monster/)
 
-- perfect for box something like this:
+- perfect for something like this:
 
 [<img src="../src/img/pattern.jpg"/>](https://www.codecademy.com/)
 
@@ -169,7 +169,7 @@ https://www.mockupworld.co/free/ipad-pro-with-magic-keyboard-mockup/ -->
 
 # Mockups tools
 
-##### [All free Mockups: Magazines & Books, iPhone, iPad, MacBook, iMac, Packaging, Signs, Vehicles, Apparel, Food and Beverages, Cosmetics and more!](https://www.mockupworld.co/all-mockups/page/32/)
+##### [All free Mockups: Magazines & Books, iPhone, iPad, MacBook, iMac, Packaging, Signs, Vehicles, Apparel, Food and Beverages, Cosmetics and more!](https://www.mockupworld.co/)
 
 <br>
 <hr>
