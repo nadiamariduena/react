@@ -11,6 +11,10 @@
 - Read more about the [**React installation/set-up here**](./src/INSTALLATION_REACT.md) ⬅️
 
 <br>
+
+- Read more about the [**styling**](./src/STYLING_TOOLS.md) ⬅️
+
+<br>
  
 <hr>
 <br>

@@ -24,7 +24,8 @@
 <br>
 <hr>
 <br>
-# OPTION 1  🍌
+
+# OPTION 1 🍌
 
 ### TO CREATE A BASIC APP (from the terminal)
 
@@ -214,6 +215,11 @@ npm run build
 ```
 
 #### npm start to <u>launch the app</u>
+
+#### [Documentation: npm-start](https://docs.npmjs.com/cli/v7/commands/npm-start)
+
+<br>
+<br>
 
 <br>
 #### [What is "npm run build" in create-react-app?](https://stackoverflow.com/questions/43830866/what-is-npm-run-build-in-create-react-app)
