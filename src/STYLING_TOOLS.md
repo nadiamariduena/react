@@ -3,7 +3,147 @@ COMPRESS IMG
 https://imagecompressor.io/
 
 
+https://www.pexels.com/fr-fr/chercher/videos/product%20smartphone/
 
+video tissue elegant, perhaps for bg parfumerie or marroquinerie
+
+https://www.pexels.com/fr-fr/video/mode-rouge-danser-concevoir-7946212/
+
+
+https://www.pexels.com/fr-fr/video/lumiere-et-ombre-feuilles-de-palmier-palmes-video-verticale-8559328/
+
+
+
+***********
+bijouterie
+***********
+
+
+https://www.pexels.com/fr-fr/video/mode-personne-main-centrale-9956209/
+
+https://www.pexels.com/fr-fr/photo/mode-amour-gens-femme-9431884/
+
+https://www.pexels.com/fr-fr/video/personne-mains-femme-modele-9432267/
+
+https://www.pexels.com/fr-fr/video/mode-personne-femme-etre-assis-9432260/
+
+https://www.pexels.com/fr-fr/photo/nourriture-mode-amour-sable-9431058/
+
+https://www.pexels.com/fr-fr/video/personne-femme-pierres-portrait-9431061/
+
+https://www.pexels.com/fr-fr/photo/nourriture-homme-gens-femme-9430423/
+
+https://www.pexels.com/fr-fr/video/femme-pendre-bague-bijoux-9430549/
+
+https://www.pexels.com/fr-fr/video/personne-mains-femme-table-9430535/
+
+rococo bijouterie /fruits /erotic
+CAN BE ALSO BE USED FOR FASHION
+
+https://www.pexels.com/fr-fr/video/mode-manger-diversite-mariee-8193980/
+
+https://www.pexels.com/fr-fr/video/mode-diversite-femelle-fan-8193754/
+
+https://www.pexels.com/fr-fr/photo/mode-amour-gens-femme-8193709/
+
+https://www.pexels.com/fr-fr/photo/mode-gens-femme-detente-8193726/
+
+https://www.pexels.com/fr-fr/video/mode-homme-gens-femmes-8193618/
+-----------
+
+2 filles / amusent
+https://www.pexels.com/fr-fr/video/restaurant-personne-femme-ordinateur-portable-9808504/
+
+https://www.pexels.com/fr-fr/video/personne-bras-femme-main-9801508/
+
+https://www.pexels.com/fr-fr/video/personne-bras-femme-main-9802367/
+
+flower love
+https://www.pexels.com/fr-fr/collections/portrait-qo8vxuc/
+
+
+girl flower nice
+https://www.pexels.com/fr-fr/photo/mode-gens-femme-jeune-fille-8422782/
+https://www.pexels.com/fr-fr/video/rouge-femme-jaune-modele-7812682/
+
+man floder nice
+https://www.pexels.com/fr-fr/collections/men-with-flowers-cfdagx1/
+-------------
+
+
+cute young kids model
+https://www.pexels.com/fr-fr/collections/fashion-in-the-wild-65s75w8/
+
+textures video liquid
+https://www.pexels.com/fr-fr/video/art-creatif-texture-abstrait-7565441/
+
+business
+maybe for some anylitical website, investment etc
+https://www.pexels.com/fr-fr/video/femme-ordinateur-portable-travailler-etre-assis-7224507/
+
+https://www.pexels.com/fr-fr/video/femme-batiments-travailler-etre-assis-7223726/
+
+
+### for some bureaucratic website (no so serious)
+https://www.pexels.com/fr-fr/collections/taxes-accounting-bill-lady-men-couple-gdoxyul/
+
+
+--------
+
+fashion
+
+---------
+
+eco fashion
+https://www.pexels.com/fr-fr/video/personne-femme-gros-plan-tresses-9836646/
+
+
+https://www.pexels.com/fr-fr/video/femmes-rochers-debout-regarder-9836597/
+
+
+https://www.pexels.com/fr-fr/photo/mode-homme-gens-femme-9836454/
+
+
+https://www.pexels.com/fr-fr/photo/mode-diversite-tenue-elegant-9834927/
+
+https://www.pexels.com/fr-fr/photo/mode-homme-plage-amour-9834555/
+
+https://www.pexels.com/fr-fr/video/mer-eau-ocean-femmes-9834892/
+
+
+
+
+https://www.pexels.com/fr-fr/collections/moon-o5ed9c8/
+---------
+
+https://www.pexels.com/fr-fr/video/mode-femme-modele-style-6984840/
+
+https://www.pexels.com/fr-fr/video/personne-femme-etre-assis-modele-6984843/
+
+https://www.pexels.com/fr-fr/video/ville-mode-homme-couple-10200810/
+
+
+https://www.pexels.com/fr-fr/collections/oncology-bald-ulk3664/
+
+
+erotic lesbian website
+https://www.pexels.com/fr-fr/video/manger-sucre-sourire-rose-5702127/
+
+
+
+
+
+
+https://www.pexels.com/fr-fr/collections/russian-style-syrhcm3/
+
+langerie
+https://www.pexels.com/fr-fr/video/gens-femmes-debout-portrait-10212064/
+
+https://www.pexels.com/fr-fr/collections/skin-color-yekjn5t/
+
+******************
+
+<br>
 
 https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/
 
