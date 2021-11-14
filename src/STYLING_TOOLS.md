@@ -1,4 +1,11 @@
-<!-- https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/
+<!--
+COMPRESS IMG
+https://imagecompressor.io/
+
+
+
+
+https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/
 
 https://www.calligraphr.com/en/
 
@@ -160,19 +167,39 @@ https://mui.com/components/slider/
 
 ## Colors
 
-##### [pick hex color codes: htmlcolorcodes](https://htmlcolorcodes.com/)
+#### [ Hex color codes: htmlcolorcodes](https://htmlcolorcodes.com/)
 
 #### [ HSLa](https://css-tricks.com/yay-for-hsla/)
+
+<br>
+<br>
+
+## Gradients 🌈
+
+#### What are gradients?
+
+##### [Linear Gradients](https://www.w3schools.com/css/css3_gradients.asp)
+
+#### Radial Gradients
+
+##### [CSS Radial Gradients](https://www.w3schools.com/css/css3_gradients_radial.asp)
+
+<br>
 
 ##### [webgradients](https://webgradients.com/)
 
 ##### [cssgradient](https://cssgradient.io/gradient-backgrounds)
+
+<br>
 
 ##### Gradients inspirational websites
 
 ##### [gradients-in-web-design-elements](https://www.awwwards.com/gradients-in-web-design-elements.html)
 
 ##### [How TO - Background Gradient on Scroll](https://www.w3schools.com/howto/howto_css_bg_gradient_scroll.asp))
+
+<br>
+<br>
 
 ##### SCSS Colors Functions
 
@@ -194,7 +221,7 @@ https://mui.com/components/slider/
 
 ##### [symbols: arrows etc](https://www.toptal.com/designers/htmlarrows/symbols/)
 
-# Icons 🌈
+# Icons 🐿️
 
 <br>
 
@@ -207,6 +234,10 @@ https://mui.com/components/slider/
 ##### [free and premium icons](https://freeicons.io/)
 
 ##### [free icons: PNG, SVG, EPS, PSD and BASE 64 formats. ](https://www.flaticon.com/)
+
+## Animated Icons 👍
+
+#### [Animated Icons](https://icons8.com/animated-icons)
 
 <br>
 
@@ -260,6 +291,14 @@ https://mui.com/components/slider/
 ##### [Img retouch: www.photopea.com ](https://www.photopea.com/)
 
 ##### [Img retouch: pixlr.com/e](https://pixlr.com/e/)
+
+<br>
+
+### Video
+
+##### [Beautiful Free Stock Video Footage](https://coverr.co/)
+
+##### [pexel videos](https://www.pexels.com/fr-fr/videos/)
 
 <br>
 
