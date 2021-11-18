@@ -172,7 +172,19 @@ https://blog.logrocket.com/how-to-use-svgs-in-react/
 https://www.freecodecamp.org/news/how-to-use-svg-icons-in-react-with-react-icons-and-font-awesome/
 
 https://www.w3schools.com/css/css3_animations.asp
-https://thoughtbot.com/blog/transitions-and-transforms -->
+https://thoughtbot.com/blog/transitions-and-transforms
+
+
+----------------
+smartphone ad videos
+---------------
+
+general
+
+https://www.pexels.com/fr-fr/chercher/videos/smartphone%20accessories/
+
+
+-->
 
 <!--
 
