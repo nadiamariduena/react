@@ -180,6 +180,13 @@ https://www.w3schools.com/css/css3_animations.asp
 https://thoughtbot.com/blog/transitions-and-transforms
 
 
+
+
+
+
+
+
+
 ----------------
 smartphone ad videos
 ---------------
@@ -213,9 +220,27 @@ https://www.pexels.com/fr-fr/video/main-rue-fleurs-smartphone-9801507/
 https://www.pexels.com/fr-fr/video/amis-femmes-dispositif-parler-9802369/
 
 
+fashionista enjoying herself/nice place
+https://www.pexels.com/fr-fr/video/mode-etre-assis-vetements-style-8397018/
+
+
+
 at the cubicle with yellow BG
 
 https://www.pexels.com/fr-fr/video/femme-smartphone-ordinateur-portable-bureau-4629173/
+
+
+https://www.pexels.com/fr-fr/video/mode-gens-ordinateur-portable-travailler-8484902/
+
+https://www.pexels.com/fr-fr/video/personne-femme-se-relaxer-etre-assis-9057565/
+
+-----------
+
+
+happy business woman
+
+
+https://www.pexels.com/fr-fr/video/personne-femme-smartphone-etre-assis-7971669/
 
 -------
 
@@ -225,15 +250,29 @@ https://www.pexels.com/fr-fr/video/smartphone-etre-assis-heureux-sourire-1019855
 
 https://www.pexels.com/fr-fr/video/femme-smartphone-etre-assis-technologie-5664462/
 
+happy at the park
+
+https://www.pexels.com/fr-fr/video/nature-ensoleille-mode-gens-8531894/
+
+happy/ taxi / girl
+https://www.pexels.com/fr-fr/video/femme-ayant-un-chat-video-a-l-interieur-d-une-voiture-3048183/
+
 -----------
 random videos
 
 https://www.pexels.com/fr-fr/video/rue-marcher-fleurs-batiments-9801508/
 
 
-ete indian type (bourgeois boheme i dont know)
+ete indian type
 
 https://www.pexels.com/fr-fr/video/vacances-amis-femmes-etre-assis-5599796/
+
+
+https://www.pexels.com/fr-fr/collections/nature-cleaning-wefkiyn/
+
+
+fashion package / shop / clientele /brand/ tailor
+https://www.pexels.com/fr-fr/collections/fashion-designer-0uwyavk/
 
 -->
 
