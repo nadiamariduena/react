@@ -49,6 +49,11 @@ https://www.pexels.com/fr-fr/photo/mode-amour-gens-femme-8193709/
 https://www.pexels.com/fr-fr/photo/mode-gens-femme-detente-8193726/
 
 https://www.pexels.com/fr-fr/video/mode-homme-gens-femmes-8193618/
+
+https://www.pexels.com/fr-fr/video/personne-femme-visage-accessoire-9143065/
+
+https://www.pexels.com/fr-fr/video/homme-personne-desert-exterieur-5850692/
+
 -----------
 
 2 filles / amusent
@@ -183,6 +188,52 @@ general
 
 https://www.pexels.com/fr-fr/chercher/videos/smartphone%20accessories/
 
+
+in the nature
+
+https://www.pexels.com/fr-fr/video/paysage-montagnes-nature-femme-9943170/
+
+https://www.pexels.com/fr-fr/video/paysage-nature-femme-appareil-photo-9943177/
+
+https://www.pexels.com/fr-fr/video/nature-smartphone-prendre-des-photos-hommes-9911361/
+
+
+smiling boys
+
+https://www.pexels.com/fr-fr/video/nature-smartphone-prendre-des-photos-hommes-9911351/
+
+
+https://www.pexels.com/fr-fr/video/nature-homme-personne-smartphone-9911359/
+----------
+
+
+happy city girls
+https://www.pexels.com/fr-fr/video/main-rue-fleurs-smartphone-9801507/
+
+https://www.pexels.com/fr-fr/video/amis-femmes-dispositif-parler-9802369/
+
+
+at the cubicle with yellow BG
+
+https://www.pexels.com/fr-fr/video/femme-smartphone-ordinateur-portable-bureau-4629173/
+
+-------
+
+happy at home
+
+https://www.pexels.com/fr-fr/video/smartphone-etre-assis-heureux-sourire-10198555/
+
+https://www.pexels.com/fr-fr/video/femme-smartphone-etre-assis-technologie-5664462/
+
+-----------
+random videos
+
+https://www.pexels.com/fr-fr/video/rue-marcher-fleurs-batiments-9801508/
+
+
+ete indian type (bourgeois boheme i dont know)
+
+https://www.pexels.com/fr-fr/video/vacances-amis-femmes-etre-assis-5599796/
 
 -->
 
