@@ -104,6 +104,12 @@
 
 <br>
 
+##### SCHOOL GROUP PROJECT
+
+##### [ROSETTA Styles](https://github.com/nadiamariduena/myrosetta)
+
+<br>
+
 ### Mapping data
 
 <br>
@@ -213,7 +219,11 @@
 
 ### THREEJS 3D | ANIMATION
 
-##### [threejs cube and flag (zoom in and zoom out) | 100% RESPONSIVE](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
+#### [ALL Threejs beginner Lessons](https://github.com/nadiamariduena/three-js)
+
+<br>
+
+##### [threejs cube and flag | 100% responsive](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
 
 ##### [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
 

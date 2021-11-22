@@ -1,4 +1,20 @@
 <!--
+
+bouncing js bottle
+
+https://nadiamariduena.github.io/first-game-dci/
+
+https://github.com/nadiamariduena/first-game-dci/blob/master/src/scripts/bottle.js
+
+
+https://github.com/nadiamariduena/first-game-dci/blob/master/src/scripts/moving-character.js
+
+
+
+
+
+
+--------------
 COMPRESS IMG
 https://imagecompressor.io/
 
