@@ -29,22 +29,9 @@
 
 <br>
 
-##### [ANIMATED Menu by Wrong Akram "exercise" ](https://github.com/nadiamariduena/-anim-menu-react1)
-
-##### [Firegram by Ninja "exercise"](https://github.com/nadiamariduena/Firegram)
-
-##### [React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
-
-<br>
-<br>
-
 ## Animations | Locomotive scroll | Misc
 
-<br>
-
-### Locomotive Scroll | 2021
-
-### IMG Distortion using Shaders
+#### IMG Distortion using Shaders
 
 - (redux /shaders / webgl / curtains.js)
 - 2021
@@ -103,10 +90,17 @@
 [to-do](https://github.com/nadiamariduena/todo-react)
 [fake instagram](https://github.com/nadiamariduena/portfolio-insta)
 [List / too many tries](https://github.com/nadiamariduena/react-list-dynamicnavbar)
-
-#### [Shop](https://github.com/nadiamariduena/fluxushome-shop)
-
 [API News](https://github.com/nadiamariduena/react-news-api)
+
+<br>
+
+##### [Shop](https://github.com/nadiamariduena/fluxushome-shop)
+
+##### [ANIMATED Menu by Wrong Akram "exercise" ](https://github.com/nadiamariduena/-anim-menu-react1)
+
+##### [Firegram by Ninja "exercise"](https://github.com/nadiamariduena/Firegram)
+
+##### [React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
 <br>
 
