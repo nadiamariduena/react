@@ -102,6 +102,8 @@
 
 ##### [React & Redux Shopping Cart "exercise" ](https://github.com/nadiamariduena/first-redux-shopping-cart)
 
+##### [FLUXUS shop](https://github.com/nadiamariduena/fluxushome-shop)
+
 <br>
 
 ##### SCHOOL GROUP PROJECT
@@ -217,19 +219,21 @@
 <hr>
 <br>
 
-### THREEJS 3D | ANIMATION
+### THREEJS 3D | ANIMATION | BLENDER
 
-#### [ALL Threejs beginner Lessons](https://github.com/nadiamariduena/three-js)
+[<img src="./src/img/CHAIR_blender-3d-threejs.gif"/>](https://github.com/nadiamariduena/3d-configurator-beginner1)
+
+##### [Process chair | Blender | Threejs ](https://github.com/nadiamariduena/3d-configurator-beginner1)
 
 <br>
+
+#### [all Threejs beginner Lessons](https://github.com/nadiamariduena/three-js)
 
 ##### [threejs cube and flag | 100% responsive](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
 
 ##### [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
 
 <br>
-
-[<img src="./src/img/flag-responsive1_.gif"/>]()
 
 <br>
 <hr>
