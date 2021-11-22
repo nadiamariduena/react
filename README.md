@@ -146,7 +146,7 @@
 
 ##### [z-index helpful option (private)](https://github.com/nadiamariduena/nadiamariduena-portfolio)
 
-#### z-index Modal
+#### Modal
 
 ##### [react Modal](https://nadiamariduena.github.io/react-modal1/)
 
