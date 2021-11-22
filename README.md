@@ -53,7 +53,7 @@
 
 <br>
 
-[<img src="./src/img/img_animation_shaders.gif"/>]()
+[<img src="./src/img/img_animation_shaders1.gif"/>]()
 
 <br>
 <br>
