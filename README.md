@@ -97,15 +97,17 @@
 
 ### FADING Animations
 
-<br>
-
-##### [Fade animation | Intersection Observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
+- AOS | INTERSECTION OBSERVER
 
 ##### [animated-portfolio-with-aos](https://github.com/nadiamariduena/animated-portfolio-with-aos)
 
 ##### [animation-effects-onpage-scroll AOS](https://github.com/nadiamariduena/animation-effects-onpage-scroll)
 
 ##### [Navigation-hide-show-onscroll](https://github.com/nadiamariduena/react-hide-show-onscroll)
+
+##### [Fade animation | Intersection Observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
+
+[<img src="./src/img/AOS-test.gif"/>]()
 
 <br>
 <br>
