@@ -221,7 +221,7 @@
 
 ### THREEJS 3D | ANIMATION | BLENDER
 
-[<img src="./src/img/CHAIR_blender-3d-threejs.gif"/>](https://github.com/nadiamariduena/3d-configurator-beginner1)
+[<img src="./src/img/CHAIR_blender-3d-threejs.gif"/>](https://preview-volkanuve.vercel.app/furniture)
 
 ##### [Process chair | Blender | Threejs ](https://github.com/nadiamariduena/3d-configurator-beginner1)
 
