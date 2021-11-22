@@ -695,3 +695,13 @@ https://mui.com/components/slider/
 #### [10 Ways to Hide Elements in CSS](https://www.sitepoint.com/hide-elements-in-css/)
 
 #### [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+
+#### [z-index helpful option (private)](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+
+#### [Hamburger Styled Component (private)](https://github.com/nadiamariduena/react-resp-hamburger-styledcomponent2)
+
+#### [Hamburger Styled Component 2 (public)](https://github.com/nadiamariduena/react-resp-hamburger-styledcomponents)
+
+#### [react Modal](https://nadiamariduena.github.io/react-modal1/)
+
+#### [Fade animation | Intersection Observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)

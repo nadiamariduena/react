@@ -2,7 +2,9 @@
 
 > Here you will find all the lessons and projects I ve been working on since the beginning of my journey with REACT at Digital Career Institute until today.
 
-### 🍯 NOTES:
+<br>
+
+### INTRODUCTION | INSTALLATION:
 
 - Read more about the [**Node and Git Installation here**](./src/NODE_GIT_INSTALLATION.md) ⬅️
 
@@ -10,7 +12,7 @@
 
 - Read more about the [**React installation/set-up here**](./src/INSTALLATION_REACT.md) ⬅️
 
-- Read more about the [**styling**](./src/STYLING_TOOLS.md) ⬅️
+- Read more about the [**styling**](./src/STYLING_TOOLS.md) 🌈
 
 <br>
  
@@ -36,17 +38,49 @@
 <br>
 <br>
 
-### Animations | Locomotive scroll | Misc 🌟
+## Animations | Locomotive scroll | Misc
+
+<br>
+
+### Locomotive Scroll | 2021
+
+### IMG Distortion using Shaders
+
+- (redux /shaders / webgl / curtains.js)
+- 2021
+
+##### [Creative Distortion](https://github.com/nadiamariduena/creativ-img.distortion2)
+
+<br>
+
+[<img src="./src/img/img_animation_shaders.gif"/>]()
+
+<br>
+<br>
+
+##### [skew-distortion-on-scroll-locomotive](https://github.com/nadiamariduena/skew-distortion-on-scroll-locomotive)
+
+[<img src="./src/img/locomotive_skew2_negative_direction.gif"/>]()
+
+<br>
+<br>
+
+#### SKEW Scrolling
 
 ##### [smooth-skew-scrolling](https://github.com/nadiamariduena/react-smooth-skew-scrolling)
 
 [<img src="./src/img/smooth_scrolling.gif"/>]()
 
 <br>
+<br>
 
-##### [threejs cube and flag (zoom in and zoom out) | 100% RESPONSIVE](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
+<br>
+<br>
+<br>
+<hr>
+<br>
 
-##### [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
+### IMAGE Reveal
 
 ##### [image reveal](https://github.com/nadiamariduena/react-imgreveal-mini-portfolio1)
 
@@ -56,7 +90,16 @@
 
 <br>
 
-##### [animated-portfolio-with-intersection-observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
+<br>
+<br>
+<hr>
+<br>
+
+### FADING Animations
+
+<br>
+
+##### [Fade animation | Intersection Observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
 
 ##### [animated-portfolio-with-aos](https://github.com/nadiamariduena/animated-portfolio-with-aos)
 
@@ -67,34 +110,17 @@
 <br>
 <br>
 
-### Locomotive Scroll
+### THREEJS 3D | ANIMATION
 
-- 2021
+##### [threejs cube and flag (zoom in and zoom out) | 100% RESPONSIVE](https://github.com/nadiamariduena/three-js/tree/master/three_responsive_scenes)
 
-##### [skew-distortion-on-scroll-locomotive](https://github.com/nadiamariduena/skew-distortion-on-scroll-locomotive)
+##### [3dflag-threejs](https://github.com/nadiamariduena/3dflag-threejs-react)
 
-[<img src="./src/img/locomotive_skew2_negative_direction.gif"/>]()
-
-<br>
-
-### IMG Distortion
-
-- (redux /shaders / webgl / curtains.js)
-- 2021
-
-#### [creativ-img.distortion2](https://github.com/nadiamariduena/creativ-img.distortion2)
-
-<br>
-
-[<img src="./src/img/img_animation_shaders.gif"/>]()
-
-<br>
 <br>
 <hr>
 <br>
-<br>
 
-## React VR 🏖️ (REACT NATIVE)
+## React VR with (REACT NATIVE)
 
 [React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
 
@@ -118,10 +144,9 @@ _(private)_
 <br>
 <br>
 
-# The Beginning
+# REACT INTRO
 
-<br>
-<br>
+### My First steps with React
 
 [react 1](https://github.com/nadiamariduena/react-1)
 
@@ -129,36 +154,59 @@ _(private)_
 
 [react 3](https://github.com/nadiamariduena/todo-react4)
 
-##### Exercises
+#### Exercises | projects
 
 [to-do](https://github.com/nadiamariduena/todo-react)
 [fake instagram](https://github.com/nadiamariduena/portfolio-insta)
 [List / too many tries](https://github.com/nadiamariduena/react-list-dynamicnavbar)
 
-[Shop](https://github.com/nadiamariduena/fluxushome-shop)
+#### [Shop](https://github.com/nadiamariduena/fluxushome-shop)
+
 [API News](https://github.com/nadiamariduena/react-news-api)
 
 <br>
+
+### Mapping data
 
 [Json map images 1](https://github.com/nadiamariduena/react-json-version1)
 
 [Json map images 2](https://github.com/nadiamariduena/react-json-version2)
 
-#### [responsive stretch](https://github.com/nadiamariduena/react-responsive-2)
+[shop | props | search filter](https://nadiamariduena.github.io/react-router-intro-dci/)
+
+[simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
 
 [react-list-dynamicnavbar](https://github.com/nadiamariduena/react-list-dynamicnavbar)
+
+<br>
+
+### Hamburger
 
 ##### [hamburger test1 responsive](https://github.com/nadiamariduena/react-responsive1)
 
 ##### [Hamburger cross closing | responsive](https://github.com/nadiamariduena/react-responsive1)
 
-[shop | props | search filter](https://nadiamariduena.github.io/react-router-intro-dci/)
+##### [Hamburger Styled Component (private)](https://github.com/nadiamariduena/react-resp-hamburger-styledcomponent2)
 
-[simple router set up](https://github.com/nadiamariduena/react-router-simple-layout)
+###### [Hamburger Styled Component 2 (public)](https://github.com/nadiamariduena/react-resp-hamburger-styledcomponents)
+
+##### [responsive stretch](https://github.com/nadiamariduena/react-responsive-2)
 
 <br>
 
-#### Recap 🌟
+### z-index
+
+##### [z-index helpful option (private)](https://github.com/nadiamariduena/nadiamariduena-portfolio)
+
+### z-index Modal
+
+##### [react Modal](https://nadiamariduena.github.io/react-modal1/)
+
+<br>
+<hr>
+<br>
+
+## Recap
 
 ##### [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
 
