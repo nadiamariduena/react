@@ -648,6 +648,15 @@ https://mui.com/components/slider/
 
 <!-- https://library.superhi.com/posts/how-to-make-an-overlay-logo-with-an-outline-effect-using-css -->
 
+<br>
+
+#### Amazing React Native Tutorials
+
+##### [Catalin Miron](https://www.youtube.com/channel/UCTcH04SRuyedaSuuQVeAcdg) 😊 🌈
+
+<br>
+<br>
+
 # Schools
 
 ##### [codecademy](https://www.codecademy.com/)
