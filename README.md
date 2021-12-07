@@ -8,7 +8,7 @@
 
 - Read more about the [**Node and Git Installation here**](./src/NODE_GIT_INSTALLATION.md) ⬅️
 
-- Read more about the [**Security here**](./src/security.md) ⬅️
+- Read more about the [**Security here**](./src/SECURITY.md) ⬅️
 
 - Read more about the [**React installation/set-up here**](./src/INSTALLATION_REACT.md) ⬅️
 
