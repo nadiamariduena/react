@@ -806,3 +806,296 @@ if (playGame) {
   alert("Ok, maybe next time");
 }
 ```
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## REFACTORING 🥭
+
+<br>
+
+#### <u>Refactoring</u> is intended to improve the design, structure, and/or implementation of the software (its non-functional attributes), while preserving its functionality.
+
+<br>
+
+- I will be changing the code below for a better version, but even after I refactor it, there will be other ways of doing it.
+
+<br>
+
+## version 01
+
+<br>
+
+- The code below, is the code that is going to be refactored
+
+<br>
+
+```javascript
+// 1
+let playGame = confirm("shall we play rock, paper,scissors");
+// 2
+if (playGame) {
+  // 3
+  let playerChoice = prompt("Please enter rock, paper, or scissors");
+  //4
+  if (playerChoice) {
+    // 5
+    let playerOne = playerChoice.trim().toLowerCase();
+
+    // 6
+    if (
+      playerOne === "rock" ||
+      playerOne === "paper" ||
+      playerOne === "scissors"
+    ) {
+      // 7
+      let computerChoice = Math.floor(Math.random() * 3 + 1);
+
+      // 8
+      let computer =
+        computerChoice === 1
+          ? "rock"
+          : computerChoice === 2
+          ? "paper"
+          : "scissors";
+      //
+      //9
+      let result =
+        playerOne === computer
+          ? "Tie game!"
+          : playerOne === "rock" && computer === "paper"
+          ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+          : playerOne === "paper" && computer === "scissors"
+          ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+          : playerOne === "scissors" && computer === "rock"
+          ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+          : `playerOne: ${playerOne}\nComputer: ${computer}\nplayerOne wins!!!`;
+      // 10
+      alert(result);
+      //
+      // 11
+      let playAgain = confirm("Play Again");
+      playAgain ? location.reload() : alert("Ok, thanks for playing");
+    } else {
+      alert("you didnt enter rock, paper or scissors");
+    }
+  } else {
+    alert("I guess you changed your mind, Maybe next time");
+  }
+} else {
+  alert("Ok, maybe next time");
+}
+```
+
+<br>
+<br>
+
+### First thing we will change is the following:
+
+- Instead of using **if (playGame)** , we will be using a **while loop**
+
+- **WHILE** the user plays the game, we will show the code inside the curly brackets
+
+```javascript
+//
+//      BEFORE
+if (playerChoice) {
+}
+//
+//      AFTER
+if (playGame) {
+  while (playGame) {
+
+    const playerChoice = prompt("Please enter rock, paper, or scissors");
+    //
+
+
+
+      } else {
+
+        alert("you didnt enter rock, paper or scissors");
+      }
+      //
+    } else {
+      //
+      alert("I guess you changed your mind, Maybe next time");
+      break;
+    }
+  }
+  //
+} else {
+  //
+  alert("Ok, maybe next time");
+}
+```
+
+<br>
+<br>
+
+- **the difference** with the following line: **if (playerChoice || playerChoice === "")** Is that instead of exiting the game **if we don't type anything**, we will have a loop (due to the **while**) so as soon as we have the **alert window** and we click ok, we will be redirected to the beginning and once this happens it will automatically asks us \*\*again\*\* to enter rock,paper,scissors
+
+```javascript
+//
+//      BEFORE
+if (playerChoice) {
+}
+//
+//      AFTER
+if (playGame) {
+ while (playGame) { ✋
+
+   const playerChoice = prompt("Please enter rock, paper, or scissors");
+   //
+   if (playerChoice || playerChoice === "") { ✋
+
+     const playerOne = playerChoice.trim().toLowerCase();
+     } else {
+       alert("you didnt enter rock, paper or scissors");
+     }
+   } else {
+     alert("I guess you changed your mind, Maybe next time");
+     break; ✋
+   }
+ } //end while loop
+} else {
+ //
+ alert("Ok, maybe next time");
+}
+```
+
+<br>
+
+<br>
+
+#### Computer Choice
+
+- As you can see in the **previous / before** version, we handle the choice with the ternary operator
+
+<br>
+
+- In the new version we have an array
+
+```javascript
+//
+//          BEFORE
+//  its going to generate a random number from 1 to 3
+const computerChoice = Math.floor(Math.random() * 3 + 1);
+// we will scan the 3 options below
+const computer =
+  computerChoice === 1 ? "rock" : computerChoice === 2 ? "paper" : "scissors";
+//
+//
+//          AFTER
+const computerChoice = Math.floor(Math.random() * 3);
+const rpsArray = ["rock", "paper", "scissors"];
+const computer = rpsArray[computerChoice];
+```
+
+<br>
+<br>
+
+#### We will be replacing the variable <u>playAgain</u> with the (playGame) from the 'while' loop (while playGame is true)
+
+```javascript
+//
+//          BEFORE
+
+const playAgain = confirm("Play Again");
+
+playAgain ? location.reload() : alert("Ok, thanks for playing");
+//
+
+//
+//             AFTER
+playGame = confirm("Play Again");
+if (!playGame) alert("Ok, thanks for playing");
+continue;
+```
+
+<br>
+<br>
+
+### The code
+
+```javascript
+// first pop up: asking: shall we ...
+// eslint-disable-next-line no-restricted-globals
+let playGame = confirm("shall we play rock, paper,scissors");
+//
+if (playGame) {
+  //
+  while (playGame) {
+    //  second pop up: asking to enter an answer:
+    const playerChoice = prompt("Please enter rock, paper, or scissors");
+    //
+    // setting up the condition if there is an answer configuration
+    if (playerChoice || playerChoice === "") {
+      //    setting up the settings for the answer, no space and to lowercase
+      const playerOne = playerChoice.trim().toLowerCase();
+      //
+      //
+      if (
+        playerOne === "rock" ||
+        playerOne === "paper" ||
+        playerOne === "scissors"
+      ) {
+        //
+        //  its going to generate a random number from 1 to 3
+        const computerChoice = Math.floor(Math.random() * 3);
+        const rpsArray = ["rock", "paper", "scissors"];
+        const computer = rpsArray[computerChoice];
+        //
+        // STEP 10
+        const result =
+          playerOne === computer
+            ? "Tie game!"
+            : playerOne === "rock" && computer === "paper"
+            ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+            : playerOne === "paper" && computer === "scissors"
+            ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+            : playerOne === "scissors" && computer === "rock"
+            ? `playerOne: ${playerOne}\nComputer: ${computer}\nComputer wins!!!`
+            : `playerOne: ${playerOne}\nComputer: ${computer}\nplayerOne wins!!!`;
+        alert(result);
+        //
+        //
+        //
+
+        // eslint-disable-next-line no-restricted-globals
+        playGame = confirm("Play Again");
+        // if playGame is false: ok thanks for playing
+        if (!playGame) alert("Ok, thanks for playing");
+        // you will have the ok thanks for playing, once you
+        // play and you either win or lose and then choose not to play again
+        continue;
+      } else {
+        // 8
+        alert("you didnt enter rock, paper or scissors");
+      }
+      //
+    } else {
+      //
+      alert("I guess you changed your mind, Maybe next time");
+      break;
+    }
+  } //end while loop
+  //
+} else {
+  //
+  alert("Ok, maybe next time");
+}
+```
+
+<br>
+<br>
+<br>
+
+---
+
+<br>
+<br>
