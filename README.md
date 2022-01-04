@@ -148,15 +148,16 @@
  </details>
 
 <br>
-
-<br>
-<hr>
 <br>
 
 ## REACT Recap
 
+#### (2021 / 2022)
+
+<br>
+
 <details>
-<summary>  click here to browse all the lessons</summary>
+<summary>  click here to browse all the lessons | 2020 </summary>
 
 <br>
 
@@ -173,6 +174,19 @@
 ##### [All about HOOKS](https://github.com/nadiamariduena/react-hooks-recap)
 
 ##### [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
+
+ </details>
+
+ <br>
+
+ <details>
+<summary>  click here to browse all the lessons | 2022 </summary>
+
+<br>
+
+### Quizz App 🥭
+
+##### [Quizz ](https://github.com/nadiamariduena/quizz-app)
 
  </details>
 
