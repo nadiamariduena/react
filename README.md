@@ -51,11 +51,6 @@
 
 <br>
 <br>
-
-<br>
-
-<br>
-<br>
 <hr>
 <br>
 
@@ -67,15 +62,15 @@
 
 <br>
 <br>
-
-<br>
-
-<br>
-<br>
 <hr>
 <br>
 
-# REACT INTRO
+## REACT Introduction
+
+<details>
+<summary>content</summary>
+
+<br>
 
 [react 1](https://github.com/nadiamariduena/react-1)
 
@@ -150,11 +145,20 @@
 
 ##### [react Modal](https://nadiamariduena.github.io/react-modal1/)
 
+ </details>
+
+<br>
+
 <br>
 <hr>
 <br>
 
-## Recap Lessons
+## REACT Recap
+
+<details>
+<summary>  click here to browse all the lessons</summary>
+
+<br>
 
 ##### [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
 
@@ -170,12 +174,17 @@
 
 ##### [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
 
+ </details>
+
 <br>
 <br>
 <hr>
 <br>
 
-# FADING Animations
+## AOS Fading Animations
+
+<details>
+<summary> click here to browse all the lessons</summary>
 
 <br>
 
@@ -190,6 +199,9 @@
 ##### [Fade animation | Intersection Observer](https://github.com/nadiamariduena/animated-portfolio-with-intersection-observer)
 
 <br>
+ </details>
+
+ <br>
 
 [<img src="./src/img/AOS-test1.gif"/>]()
 
@@ -214,18 +226,11 @@
 
 <br>
 
-<br>
-<br>
-<hr>
-<br>
-
 ### THREEJS 3D | ANIMATION | BLENDER
 
 [<img src="./src/img/CHAIR_blender-3d-threejs.gif"/>](https://preview-volkanuve.vercel.app/furniture)
 
-##### [Process chair | Blender | Threejs ](https://github.com/nadiamariduena/3d-configurator-beginner1)
-
-<br>
+#### [Process chair | Blender | Threejs ](https://github.com/nadiamariduena/3d-configurator-beginner1)
 
 #### [all Threejs beginner Lessons](https://github.com/nadiamariduena/three-js)
 
@@ -241,6 +246,11 @@
 
 ## React VR with (REACT NATIVE)
 
+<details>
+<summary> click here to browse all the lessons</summary>
+
+<br>
+
 [React 360 _Hello_ Virtual Reality (introduction)](https://github.com/nadiamariduena/react-vr-intro1)
 
 [ReactVR intro 2 (images) | VERCEL video install ](https://github.com/nadiamariduena/react-vr-intro2-images)
@@ -248,6 +258,8 @@
 [ReactVR intro 3 (video)](https://github.com/nadiamariduena/react-vr-intro3-video)
 
 [ReactVR intro 4 (importing 3D models)](https://github.com/nadiamariduena/react-vr-intro4-3dModels)
+
+ </details>
 
 <br>
 <hr>
@@ -257,3 +269,46 @@
 
 _(private)_
 [Unity3d - 360 Virtual Tour](https://github.com/nadiamariduena/unity3d-virtual-tour1)
+
+<br>
+<br>
+
+---
+
+<br>
+
+## JAVASCRIPT Recap
+
+[JavaScript Full Course for Beginners](https://github.com/nadiamariduena/js-lessons-2021/tree/master/js-beginner2021)
+
+<details>
+<summary> click here to browse all the lessons</summary>
+
+<br>
+
+Strings
+Numbers
+Math Methods
+Code Challenge
+If Statements
+Switch Statements
+Ternary Operators
+User Input
+Your First Game
+Loops
+Functions
+Scope - var, let, const
+Arrays
+Refactor the Game with Arrays
+Objects
+Classes
+JSON
+Handling Errors
+Document Object Model (DOM)
+Event Listeners
+Web Storage API
+Modules
+Higher Order Functions
+Promises / Fetch / Async & Await
+
+ </details>
