@@ -287,28 +287,51 @@ _(private)_
 <br>
 
 Strings
+
 Numbers
+
 Math Methods
+
 Code Challenge
+
 If Statements
+
 Switch Statements
+
 Ternary Operators
+
 User Input
+
 Your First Game
+
 Loops
+
 Functions
+
 Scope - var, let, const
+
 Arrays
+
 Refactor the Game with Arrays
+
 Objects
+
 Classes
+
 JSON
+
 Handling Errors
+
 Document Object Model (DOM)
+
 Event Listeners
+
 Web Storage API
+
 Modules
+
 Higher Order Functions
+
 Promises / Fetch / Async & Await
 
  </details>
