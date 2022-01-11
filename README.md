@@ -29,6 +29,61 @@
 
 <br>
 
+<br>
+<br>
+
+## REACT Recap
+
+#### (2021 / 2022)
+
+<br>
+
+<details>
+<summary>  click here to browse all the lessons | 2020 </summary>
+
+<br>
+
+##### [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
+
+##### [Props beginner](https://github.com/nadiamariduena/react-props-video)
+
+##### [React Router1 ](https://github.com/nadiamariduena/react-router-introduction)
+
+##### [React Router2 + Fetch ](https://github.com/nadiamariduena/react-router2-fetch)
+
+##### [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
+
+##### [All about HOOKS](https://github.com/nadiamariduena/react-hooks-recap)
+
+##### [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
+
+ </details>
+
+ <br>
+
+ <details>
+<summary>  click here to browse all the lessons | 2022 </summary>
+
+<br>
+
+### 🥭
+
+#### [Quizz ](https://github.com/nadiamariduena/quizz-app)
+
+#### [Birthday Reminder | Exercise](https://github.com/nadiamariduena/birthday-reminder-usestate-exercise)
+
+[<img src="./src/img/useState-exercises1.gif"/>]()
+
+ </details>
+
+ <br>
+  <br>
+
+---
+
+   <br>
+   <br>
+
 ## Animations | Locomotive scroll | Misc
 
 #### IMG Distortion using Shaders
@@ -67,8 +122,10 @@
 
 ## REACT Introduction
 
+#### (2020 / 2021)
+
 <details>
-<summary>content</summary>
+<summary>All Lessons and exercises</summary>
 
 <br>
 
@@ -144,49 +201,6 @@
 #### Modal
 
 ##### [react Modal](https://nadiamariduena.github.io/react-modal1/)
-
- </details>
-
-<br>
-<br>
-
-## REACT Recap
-
-#### (2021 / 2022)
-
-<br>
-
-<details>
-<summary>  click here to browse all the lessons | 2020 </summary>
-
-<br>
-
-##### [Lessons recap](https://github.com/nadiamariduena/react-recapitulation)
-
-##### [Props beginner](https://github.com/nadiamariduena/react-props-video)
-
-##### [React Router1 ](https://github.com/nadiamariduena/react-router-introduction)
-
-##### [React Router2 + Fetch ](https://github.com/nadiamariduena/react-router2-fetch)
-
-##### [componentWillMount, componentDidMount ](https://github.com/nadiamariduena/component-did-and-will-mount)
-
-##### [All about HOOKS](https://github.com/nadiamariduena/react-hooks-recap)
-
-##### [react-lazyloading-suspense ](https://github.com/nadiamariduena/react-lazyloading-suspense)
-
- </details>
-
- <br>
-
- <details>
-<summary>  click here to browse all the lessons | 2022 </summary>
-
-<br>
-
-### Quizz App 🥭
-
-##### [Quizz ](https://github.com/nadiamariduena/quizz-app)
 
  </details>
 
