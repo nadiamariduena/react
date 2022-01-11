@@ -74,6 +74,14 @@
 
 [<img src="./src/img/useState-exercises1.gif"/>](https://github.com/nadiamariduena/birthday-reminder-usestate-exercise)
 
+<br>
+
+#### [counter | slider](https://github.com/nadiamariduena/counter-slider-usestate-exercise)
+
+[<img src="./src/img/counter-slider.gif"/>](https://github.com/nadiamariduena/counter-slider-usestate-exercise)
+
+<br>
+
  </details>
 
  <br>
