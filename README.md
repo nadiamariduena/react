@@ -72,7 +72,7 @@
 
 #### [Birthday Reminder | Exercise](https://github.com/nadiamariduena/birthday-reminder-usestate-exercise)
 
-[<img src="./src/img/useState-exercises1.gif"/>]()
+[<img src="./src/img/useState-exercises1.gif"/>](https://github.com/nadiamariduena/birthday-reminder-usestate-exercise)
 
  </details>
 
