@@ -82,6 +82,12 @@
 
 <br>
 
+#### [basic todo List](https://github.com/nadiamariduena/counter-slider-usestate-exercise)
+
+[<img src="./src/img/do-clear_basic.gif"/>](https://github.com/nadiamariduena/todo-list-usestate-exercise)
+
+<br>
+
  </details>
 
  <br>
