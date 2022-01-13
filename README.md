@@ -82,6 +82,12 @@
 
 <br>
 
+#### [modal](https://github.com/nadiamariduena/modal-basic-and-intermediary)
+
+[<img src="./src/img/slider2-test-modal.gif"/>](https://github.com/nadiamariduena/modal-basic-and-intermediary)
+
+<br>
+
 #### [basic todo List](https://github.com/nadiamariduena/counter-slider-usestate-exercise)
 
 [<img src="./src/img/todo-clear_basic.gif"/>](https://github.com/nadiamariduena/todo-list-usestate-exercise)
