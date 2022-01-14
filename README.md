@@ -84,7 +84,7 @@
 
 #### [modal](https://github.com/nadiamariduena/modal-basic-and-intermediary)
 
-[<img src="./src/img/slider2-test-modal.gif"/>](https://github.com/nadiamariduena/modal-basic-and-intermediary)
+[<img src="./src/img/slider2-test-slider1.gif"/>](https://github.com/nadiamariduena/modal-basic-and-intermediary)
 
 <br>
 
