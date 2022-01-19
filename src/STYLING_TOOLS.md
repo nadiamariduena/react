@@ -332,6 +332,9 @@
 
 <br>
 
+#### [ul li / list styling](https://www.w3schools.com/css/css_list.asp)
+
+<br>
 #### [box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
 
 #### [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
