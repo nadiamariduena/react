@@ -1360,3 +1360,7 @@ const CityOrganicGrid = ({ setSelectedImgCityOrganic }) => {
 
 <br>
 <br>
+
+## Map within a map 🐽
+
+[Using a map within a map in jsx](https://stackoverflow.com/questions/44131209/using-a-map-within-a-map-in-jsx)
