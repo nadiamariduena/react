@@ -143,12 +143,15 @@
 <br>
 <br>
 
-## API
+<a href="https://emoji.gg/emoji/1385-metamask"><img src="https://emoji.gg/assets/emoji/1385-metamask.png" width="64px" height="64px" alt="metamask"></a>
 
+## API exercises
+
+<br>
 <br>
 
 <details>
-<summary>API exercises</summary>
+<summary>API / thirdweb / NFT / metamask / Opensea ...</summary>
 
 <br>
 
@@ -164,11 +167,29 @@
 
 [Filtering Animation with React Tutorial & Framer Motion](https://github.com/nadiamariduena/movie-animated-filtering-react)
 
-<br>
-
 [<img src="./src/img/filterin-success.gif"/>]()
 
+<br>
+
+<br>
+
+#### crypto-punk-clone-react-web3 ✋
+
+<br>
+
+> **In this tutorial you will learn** how to get comfortable with creating NFT's in testing mode (using specific networks for that matter in [metamask](https://metamask.io/) & [thirdweb](https://thirdweb.com/dashboard) ), you will also learn hot to create **fake ethereum** (with [faucets.chain](faucets.chain.link/rinkeby) ) to be used in your **tests** apps.
+
+##### [crypto-punk-clone-react-web3](https://github.com/nadiamariduena/crypto-punk-clone-react-web3)
+
+<br>
+<br>
+
  </details>
+
+ <br>
+ <br>
+
+[<img src="./src/img/preview-with-bug.gif"/>]()
 
 <br>
 <br>
