@@ -19,12 +19,6 @@
 <hr>
 <br>
 
-<br>
-
-<br>
-<br>
-<br>
-
 # RECENT
 
 <br>
@@ -143,7 +137,45 @@
 
 <br>
 <br>
-<hr>
+
+---
+
+<br>
+<br>
+
+## API
+
+<br>
+
+<details>
+<summary>API exercises</summary>
+
+<br>
+
+#### Create a Movie Watchlist with React Hooks, Context API and localStorage
+
+[movie-watchlist-reacthooks-context-api](https://github.com/nadiamariduena/movie-watchlist-reacthooks-context-api)
+
+[<img src="./src/img/preview-app.gif"/>](https://movie-search-exercise-mariduena.netlify.app/)
+
+<br>
+
+#### Movie animated filtering react
+
+[Filtering Animation with React Tutorial & Framer Motion](https://github.com/nadiamariduena/movie-animated-filtering-react)
+
+<br>
+
+[<img src="./src/img/filterin-success.gif"/>]()
+
+ </details>
+
+<br>
+<br>
+
+---
+
+<br>
 <br>
 
 ## REACT Introduction
