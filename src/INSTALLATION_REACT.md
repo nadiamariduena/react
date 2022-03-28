@@ -321,7 +321,9 @@ _(private)_
 // 1 if you already installed it and it caused issues
 npm uninstall node-sass
 // 2
-npm install node-sass@4.14.1
+npm i sass
+
+//npm install node-sass@4.14.1 (worked fine until 28/03/22)
 //  https://stackoverflow.com/questions/64625050/error-node-sass-version-5-0-0-is-incompatible-with-4-0-0
 ```
 
